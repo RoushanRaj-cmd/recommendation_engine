@@ -1,0 +1,1001 @@
+id,sector,skills,education,location
+1,Design,Illustration; Graphic Design; Adobe Photoshop; UI/UX,Diploma in Design,Navi Mumbai
+2,FMCG,Brand Management; Product Management; Supply Chain; Consumer Behaviour; Marketing; Sales,Diploma Business Management,Allahabad
+3,Finance/Banking,Accounting; Excel; Auditing,MBA Finance,Delhi
+4,Education,Educational Research; Assessment Design; Public Speaking; Teaching; Classroom Management,PhD Education,Indore
+5,Research,Statistics; Laboratory Techniques; Experimentation; Scientific Writing; Data Analysis; Machine Learning,PhD,Varanasi
+6,Travel & Logistics,Transportation Planning; Warehouse Management; Customer Service; Inventory Management,MBA Operations,Tiruchirappalli
+7,Research,Scientific Writing; Machine Learning; Data Analysis; Laboratory Techniques,M.Tech,Kota
+8,Agriculture,Fertilizer Application; Farm Mechanization; Irrigation Systems; Crop Management,B.Sc Agriculture,Tiruchirappalli
+9,Agriculture,Irrigation Systems; Soil Science; Farm Mechanization; Crop Management; Agribusiness; Fertilizer Application,B.Sc Agriculture,Dhanbad
+10,IT/Software,C++; Python; Machine Learning; Cloud Computing; Web Development; Data Analysis,MCA,Nashik
+11,Research,Machine Learning; Data Analysis; Laboratory Techniques; Scientific Writing,PhD,Bareilly
+12,Travel & Logistics,Inventory Management; Operations Management; Warehouse Management,MBA Operations,Ranchi
+13,Research,Data Analysis; Scientific Writing; Machine Learning,PhD,Nagpur
+14,Education,Educational Research; Public Speaking; Curriculum Development; Assessment Design; Teaching; Classroom Management,PhD Education,Delhi
+15,Gems & Jewellery,Retail Management; Jewellery Design; CAD Design,Diploma Jewellery Design,Hyderabad
+16,Chemical Industries,Quality Control; Process Design; Material Science; Chemical Engineering; Industrial Chemistry,M.Sc Chemistry,Jaipur
+17,Design,3D Modeling; Graphic Design; AutoCAD,Diploma in Design,Ahmedabad
+18,Education,Classroom Management; Educational Research; Teaching; Assessment Design,M.Ed,Raipur
+19,Chemical Industries,Chemical Engineering; Quality Control; Material Science; Industrial Chemistry; Process Design; Safety Management,M.Sc Chemistry,Allahabad
+20,FMCG,Sales; Supply Chain; Brand Management; Consumer Behaviour,MBA Marketing,Bareilly
+21,Chemical Industries,Quality Control; Industrial Chemistry; Chemical Engineering; Material Science,B.Tech Chemical Engineering,Nashik
+22,Pharamaceutical,Pharmacology; Clinical Trials; Drug Development; Medical Research; Quality Control; Regulatory Affairs,B.Pharm,Pune
+23,Design,Graphic Design; UI/UX; 3D Modeling; Illustration; AutoCAD,Diploma in Design,Ghaziabad
+24,Gems & Jewellery,Gemology; Merchandising; CAD Design; Jewellery Design; Retail Management,Certificate in Gemology,Nashik
+25,FMCG,Sales; Product Management; Marketing; Brand Management,Diploma Business Management,Ranchi
+26,Travel & Logistics,Supply Chain; Customer Service; Warehouse Management; Inventory Management,Diploma Logistics,Vijayawada
+27,Housing/Infrastructure,Construction Management; Structural Analysis; AutoCAD; Civil Engineering; Urban Planning,B.Tech Civil,Delhi
+28,Gems & Jewellery,CAD Design; Retail Management; Gemology; Jewellery Design; Quality Control,Diploma Jewellery Design,Hubli
+29,FMCG,Brand Management; Marketing; Supply Chain; Consumer Behaviour; Product Management; Sales,BBA,Ahmedabad
+30,Research,Statistics; Scientific Writing; Experimentation; Data Analysis; Machine Learning; Laboratory Techniques,PhD,Ranchi
+31,Housing/Infrastructure,Project Management; Construction Management; Structural Analysis; Urban Planning,Diploma Civil,Bhopal
+32,IT/Software,SQL; Web Development; Java,B.Tech Information Technology,Indore
+33,Education,Classroom Management; Teaching; Assessment Design; Curriculum Development; Public Speaking,PhD Education,Srinagar
+34,Chemical Industries,Safety Management; Process Design; Chemical Engineering,M.Sc Chemistry,Gwalior
+35,Pharamaceutical,Drug Development; Pharmacology; Quality Control; Clinical Trials; Medical Research; Regulatory Affairs,M.Pharm,Kolkata
+36,Travel & Logistics,Supply Chain; Warehouse Management; Transportation Planning,BBA,Chennai
+37,IT/Software,C++; Machine Learning; Web Development,MCA,Kanpur
+38,Travel & Logistics,Supply Chain; Warehouse Management; Transportation Planning; Inventory Management; Customer Service,BBA,Rajkot
+39,Chemical Industries,Material Science; Quality Control; Chemical Engineering; Safety Management; Process Design,M.Sc Chemistry,Delhi
+40,Pharamaceutical,Regulatory Affairs; Clinical Trials; Quality Control,B.Pharm,Thane
+41,Pharamaceutical,Drug Development; Quality Control; Clinical Trials; Pharmacology; Medical Research; Regulatory Affairs,M.Pharm,Dhanbad
+42,Finance/Banking,Risk Management; Auditing; Accounting,CA,Bangalore
+43,IT/Software,C++; Java; Cybersecurity,B.Tech Computer Science,Amritsar
+44,IT/Software,Python; Machine Learning; Data Analysis; SQL,B.Tech Computer Science,Gwalior
+45,Agriculture,Crop Management; Soil Science; Agribusiness; Fertilizer Application,Diploma Agriculture,Aligarh
+46,Agriculture,Crop Management; Irrigation Systems; Farm Mechanization; Agribusiness,Diploma Agriculture,Ludhiana
+47,Travel & Logistics,Warehouse Management; Transportation Planning; Customer Service; Inventory Management,Diploma Logistics,Bareilly
+48,Design,3D Modeling; UI/UX; Graphic Design; Illustration; AutoCAD; Adobe Photoshop,B.Des,Visakhapatnam
+49,Healthcare,Clinical Research; Nursing; Phlebotomy; Public Health,MD,Vadodara
+50,Chemical Industries,Quality Control; Material Science; Industrial Chemistry,M.Sc Chemistry,Hyderabad
+51,Finance/Banking,Financial Analysis; Auditing; Investment Banking; Accounting; Risk Management,B.Com,Tiruchirappalli
+52,Gems & Jewellery,Quality Control; Retail Management; Gemology; CAD Design; Merchandising; Jewellery Design,Diploma Jewellery Design,Lucknow
+53,Healthcare,Public Health; Phlebotomy; Nursing; Surgery Assistance; Clinical Research,Diploma in Medical Lab Technology,Pune
+54,Finance/Banking,Excel; Financial Analysis; Investment Banking; Data Analysis; Risk Management,B.Com,Ahmedabad
+55,Agriculture,Irrigation Systems; Soil Science; Crop Management; Fertilizer Application,B.Sc Agriculture,Jodhpur
+56,Research,Machine Learning; Data Analysis; Laboratory Techniques; Experimentation,PhD,Jabalpur
+57,Gems & Jewellery,Jewellery Design; Gemology; Quality Control,Diploma Jewellery Design,Jaipur
+58,Pharamaceutical,Regulatory Affairs; Clinical Trials; Pharmacology; Medical Research,PhD Pharmacy,Jabalpur
+59,Gems & Jewellery,Merchandising; Gemology; CAD Design; Retail Management; Quality Control,B.Des Jewellery,Jaipur
+60,Design,Graphic Design; UI/UX; 3D Modeling; Illustration,M.Des,Mysore
+61,Defence,Aerospace Engineering; Military Tactics; Cybersecurity; Strategic Planning; Navigation Systems; Weapon Systems,B.Tech Mechanical,Pune
+62,FMCG,Sales; Product Management; Marketing,MBA Marketing,Varanasi
+63,Gems & Jewellery,Retail Management; Quality Control; Gemology; Jewellery Design; CAD Design; Merchandising,B.Des Jewellery,Bareilly
+64,Travel & Logistics,Operations Management; Warehouse Management; Customer Service; Inventory Management; Transportation Planning; Supply Chain,BBA,Kolkata
+65,Healthcare,Clinical Research; Nursing; Phlebotomy; Public Health; Patient Care,Diploma in Medical Lab Technology,Kolkata
+66,Chemical Industries,Chemical Engineering; Safety Management; Material Science,M.Sc Chemistry,Meerut
+67,Agriculture,Soil Science; Fertilizer Application; Crop Management; Agribusiness,Diploma Agriculture,Bareilly
+68,Design,Graphic Design; Adobe Photoshop; 3D Modeling; Illustration; AutoCAD,M.Des,Madurai
+69,IT/Software,Data Analysis; Cybersecurity; C++; Java; Machine Learning,B.Tech Information Technology,Ludhiana
+70,Research,Experimentation; Scientific Writing; Machine Learning; Data Analysis; Statistics,M.Sc Research Methodology,Vadodara
+71,FMCG,Consumer Behaviour; Marketing; Brand Management; Product Management; Supply Chain; Sales,MBA Marketing,Bhopal
+72,Defence,Weapon Systems; Cybersecurity; Navigation Systems; Aerospace Engineering,Defence Studies,Jodhpur
+73,Education,Teaching; Classroom Management; Educational Research; Public Speaking; Assessment Design; Curriculum Development,M.Ed,Hubli
+74,Pharamaceutical,Medical Research; Quality Control; Pharmacology; Regulatory Affairs; Drug Development,B.Pharm,Kota
+75,Pharamaceutical,Drug Development; Regulatory Affairs; Pharmacology; Quality Control; Medical Research; Clinical Trials,B.Pharm,Mumbai
+76,Chemical Industries,Quality Control; Safety Management; Process Design,B.Tech Chemical Engineering,Indore
+77,Gems & Jewellery,CAD Design; Retail Management; Merchandising; Gemology; Jewellery Design,Certificate in Gemology,Allahabad
+78,Travel & Logistics,Operations Management; Transportation Planning; Supply Chain; Warehouse Management; Inventory Management,BBA,Aligarh
+79,Defence,Cybersecurity; Navigation Systems; Military Tactics,Defence Studies,Ludhiana
+80,IT/Software,Cybersecurity; Cloud Computing; Machine Learning; C++,MCA,Chandigarh
+81,Pharamaceutical,Regulatory Affairs; Medical Research; Drug Development; Quality Control; Pharmacology; Clinical Trials,B.Pharm,Bhopal
+82,Chemical Industries,Process Design; Chemical Engineering; Quality Control; Material Science; Industrial Chemistry,M.Sc Chemistry,Ludhiana
+83,Travel & Logistics,Transportation Planning; Warehouse Management; Supply Chain; Operations Management,MBA Operations,Hyderabad
+84,Travel & Logistics,Supply Chain; Operations Management; Customer Service,MBA Operations,Bareilly
+85,Education,Classroom Management; Curriculum Development; Assessment Design; Teaching,PhD Education,Vijayawada
+86,Healthcare,Nursing; Clinical Research; Surgery Assistance; Patient Care,Diploma in Medical Lab Technology,Madurai
+87,Defence,Weapon Systems; Cybersecurity; Military Tactics; Strategic Planning; Navigation Systems,B.Tech Electronics,Ludhiana
+88,IT/Software,Web Development; Cloud Computing; Data Analysis; Java; SQL; Python,MCA,Ahmedabad
+89,Research,Experimentation; Machine Learning; Scientific Writing; Data Analysis; Laboratory Techniques,M.Sc Research Methodology,Kota
+90,Finance/Banking,Auditing; Investment Banking; Excel,CA,Ranchi
+91,Travel & Logistics,Operations Management; Inventory Management; Supply Chain; Customer Service; Warehouse Management,BBA,Raipur
+92,Education,Teaching; Educational Research; Classroom Management; Curriculum Development; Public Speaking; Assessment Design,M.Ed,Nagpur
+93,Gems & Jewellery,CAD Design; Quality Control; Retail Management; Merchandising; Gemology,Diploma Jewellery Design,Madurai
+94,Chemical Industries,Safety Management; Material Science; Quality Control,M.Sc Chemistry,Nagpur
+95,Agriculture,Crop Management; Fertilizer Application; Agribusiness; Farm Mechanization; Irrigation Systems; Soil Science,M.Sc Agriculture,Ahmedabad
+96,Chemical Industries,Quality Control; Chemical Engineering; Industrial Chemistry; Safety Management; Material Science,B.Tech Chemical Engineering,Varanasi
+97,Agriculture,Farm Mechanization; Irrigation Systems; Crop Management; Soil Science; Agribusiness,Diploma Agriculture,Nagpur
+98,Pharamaceutical,Medical Research; Clinical Trials; Regulatory Affairs; Drug Development,PhD Pharmacy,Guwahati
+99,Chemical Industries,Chemical Engineering; Industrial Chemistry; Quality Control; Safety Management; Process Design; Material Science,M.Sc Chemistry,Kalyan
+100,Design,3D Modeling; Illustration; Graphic Design; AutoCAD,Diploma in Design,Navi Mumbai
+101,Housing/Infrastructure,Construction Management; Structural Analysis; Urban Planning,B.Tech Civil,Nagpur
+102,Design,3D Modeling; AutoCAD; UI/UX; Illustration; Adobe Photoshop; Graphic Design,B.Des,Howrah
+103,Agriculture,Farm Mechanization; Soil Science; Irrigation Systems; Crop Management; Fertilizer Application,M.Sc Agriculture,Faridabad
+104,Finance/Banking,Excel; Financial Analysis; Auditing,B.Com,Ahmedabad
+105,Pharamaceutical,Regulatory Affairs; Clinical Trials; Pharmacology; Drug Development; Quality Control,PhD Pharmacy,Thane
+106,Research,Laboratory Techniques; Statistics; Experimentation; Data Analysis,M.Tech,Chandigarh
+107,IT/Software,Cloud Computing; Machine Learning; Java,MCA,Bhopal
+108,Pharamaceutical,Pharmacology; Medical Research; Drug Development; Clinical Trials,PhD Pharmacy,Ranchi
+109,Finance/Banking,Auditing; Financial Analysis; Investment Banking; Data Analysis; Risk Management; Accounting,CA,Hubli
+110,Education,Curriculum Development; Public Speaking; Teaching; Assessment Design; Classroom Management; Educational Research,B.Ed,Srinagar
+111,Gems & Jewellery,CAD Design; Merchandising; Retail Management; Quality Control; Gemology,Diploma Jewellery Design,Faridabad
+112,Research,Laboratory Techniques; Experimentation; Machine Learning; Statistics; Scientific Writing; Data Analysis,M.Sc Research Methodology,Kolkata
+113,Research,Data Analysis; Scientific Writing; Statistics; Machine Learning,M.Sc Research Methodology,Bareilly
+114,Design,Illustration; AutoCAD; UI/UX; Graphic Design,B.Des,Kalyan
+115,Pharamaceutical,Pharmacology; Clinical Trials; Quality Control,B.Pharm,Nashik
+116,Gems & Jewellery,Merchandising; Retail Management; Quality Control; Gemology; CAD Design,B.Des Jewellery,Hyderabad
+117,Design,Illustration; Adobe Photoshop; Graphic Design,B.Des,Dhanbad
+118,Finance/Banking,Investment Banking; Data Analysis; Financial Analysis; Accounting,CA,Ghaziabad
+119,Defence,Cybersecurity; Strategic Planning; Weapon Systems; Navigation Systems; Military Tactics,Defence Studies,Nagpur
+120,Design,Graphic Design; UI/UX; 3D Modeling; Illustration,Diploma in Design,Indore
+121,Travel & Logistics,Supply Chain; Transportation Planning; Warehouse Management; Inventory Management; Operations Management; Customer Service,BBA,Gwalior
+122,Research,Laboratory Techniques; Statistics; Scientific Writing; Machine Learning; Experimentation; Data Analysis,M.Tech,Nashik
+123,Agriculture,Irrigation Systems; Fertilizer Application; Farm Mechanization; Crop Management,M.Sc Agriculture,Madurai
+124,IT/Software,Web Development; Cloud Computing; SQL; Data Analysis; Java; C++,B.Tech Information Technology,Hyderabad
+125,Agriculture,Soil Science; Farm Mechanization; Agribusiness; Irrigation Systems; Fertilizer Application; Crop Management,Diploma Agriculture,Thane
+126,Education,Teaching; Assessment Design; Classroom Management; Educational Research,PhD Education,Pune
+127,IT/Software,SQL; Cloud Computing; Web Development; C++; Java; Python,B.Tech Information Technology,Kanpur
+128,Education,Educational Research; Assessment Design; Teaching,M.Ed,Dhanbad
+129,Pharamaceutical,Medical Research; Regulatory Affairs; Quality Control; Pharmacology; Clinical Trials,M.Pharm,Faridabad
+130,Gems & Jewellery,CAD Design; Merchandising; Jewellery Design; Gemology,Diploma Jewellery Design,Madurai
+131,Travel & Logistics,Warehouse Management; Operations Management; Inventory Management; Supply Chain,BBA,Delhi
+132,Pharamaceutical,Quality Control; Drug Development; Regulatory Affairs; Clinical Trials,M.Pharm,Srinagar
+133,Healthcare,Public Health; Patient Care; Phlebotomy,B.Sc Nursing,Jodhpur
+134,IT/Software,Cloud Computing; Cybersecurity; Python; Machine Learning; Java; SQL,MCA,Tiruchirappalli
+135,Research,Laboratory Techniques; Scientific Writing; Machine Learning,M.Sc Research Methodology,Raipur
+136,Healthcare,Phlebotomy; Patient Care; Clinical Research; Surgery Assistance; Public Health,MD,Amritsar
+137,Healthcare,Nursing; Phlebotomy; Clinical Research; Patient Care; Surgery Assistance,MBBS,Mumbai
+138,FMCG,Supply Chain; Marketing; Sales,BBA,Allahabad
+139,Defence,Navigation Systems; Aerospace Engineering; Strategic Planning; Weapon Systems; Cybersecurity,B.Tech Electronics,Patna
+140,Design,Adobe Photoshop; 3D Modeling; UI/UX; Illustration; AutoCAD; Graphic Design,M.Des,Lucknow
+141,Healthcare,Nursing; Patient Care; Phlebotomy; Public Health,MD,Pune
+142,Healthcare,Public Health; Phlebotomy; Patient Care; Surgery Assistance,Diploma in Medical Lab Technology,Mumbai
+143,Design,AutoCAD; 3D Modeling; Illustration,B.Des,Kalyan
+144,Finance/Banking,Auditing; Risk Management; Data Analysis; Financial Analysis; Accounting; Excel,MBA Finance,Hubli
+145,Education,Assessment Design; Teaching; Educational Research; Curriculum Development,M.Ed,Kalyan
+146,Healthcare,Surgery Assistance; Phlebotomy; Nursing; Clinical Research,MD,Howrah
+147,Gems & Jewellery,Jewellery Design; Quality Control; Merchandising,Certificate in Gemology,Srinagar
+148,Healthcare,Public Health; Surgery Assistance; Patient Care; Nursing; Clinical Research,Diploma in Medical Lab Technology,Hubli
+149,Healthcare,Phlebotomy; Patient Care; Public Health; Surgery Assistance; Clinical Research; Nursing,B.Sc Nursing,Meerut
+150,Research,Laboratory Techniques; Machine Learning; Statistics; Data Analysis; Scientific Writing,M.Tech,Raipur
+151,Education,Teaching; Curriculum Development; Assessment Design; Educational Research; Classroom Management; Public Speaking,M.Ed,Indore
+152,IT/Software,Machine Learning; Data Analysis; Java; C++; Python,B.Tech Information Technology,Ranchi
+153,Healthcare,Patient Care; Public Health; Clinical Research; Phlebotomy; Surgery Assistance,MBBS,Kolkata
+154,Pharamaceutical,Pharmacology; Regulatory Affairs; Clinical Trials; Quality Control; Medical Research; Drug Development,PhD Pharmacy,Kota
+155,Research,Statistics; Scientific Writing; Experimentation; Laboratory Techniques,M.Tech,Pune
+156,Healthcare,Public Health; Surgery Assistance; Phlebotomy; Patient Care; Clinical Research,MD,Solapur
+157,Pharamaceutical,Quality Control; Drug Development; Medical Research; Pharmacology; Regulatory Affairs; Clinical Trials,B.Pharm,Patna
+158,Pharamaceutical,Clinical Trials; Pharmacology; Medical Research; Quality Control,M.Pharm,Delhi
+159,Education,Teaching; Classroom Management; Curriculum Development,PhD Education,Patna
+160,Agriculture,Fertilizer Application; Agribusiness; Irrigation Systems; Crop Management; Soil Science,M.Sc Agriculture,Faridabad
+161,Research,Data Analysis; Statistics; Scientific Writing,M.Sc Research Methodology,Ludhiana
+162,Pharamaceutical,Pharmacology; Drug Development; Regulatory Affairs,B.Pharm,Rajkot
+163,FMCG,Consumer Behaviour; Marketing; Product Management,MBA Marketing,Guwahati
+164,Design,Illustration; AutoCAD; UI/UX; Adobe Photoshop,Diploma in Design,Allahabad
+165,Research,Statistics; Laboratory Techniques; Data Analysis,PhD,Indore
+166,Defence,Aerospace Engineering; Navigation Systems; Cybersecurity; Military Tactics,B.Tech Electronics,Thane
+167,Healthcare,Nursing; Phlebotomy; Patient Care; Public Health,Diploma in Medical Lab Technology,Kolkata
+168,Education,Classroom Management; Public Speaking; Curriculum Development,B.Ed,Chennai
+169,Education,Educational Research; Teaching; Assessment Design; Classroom Management; Public Speaking,PhD Education,Faridabad
+170,Pharamaceutical,Regulatory Affairs; Clinical Trials; Quality Control; Drug Development; Pharmacology,B.Pharm,Navi Mumbai
+171,FMCG,Sales; Supply Chain; Consumer Behaviour,Diploma Business Management,Vadodara
+172,Travel & Logistics,Transportation Planning; Inventory Management; Supply Chain; Customer Service; Warehouse Management,MBA Operations,Bangalore
+173,Finance/Banking,Financial Analysis; Risk Management; Auditing; Investment Banking; Accounting,B.Com,Amritsar
+174,Finance/Banking,Financial Analysis; Auditing; Risk Management,MBA Finance,Mumbai
+175,Defence,Weapon Systems; Military Tactics; Cybersecurity; Strategic Planning; Navigation Systems; Aerospace Engineering,B.Tech Mechanical,Bhopal
+176,FMCG,Marketing; Brand Management; Supply Chain; Product Management; Consumer Behaviour,Diploma Business Management,Rajkot
+177,Chemical Industries,Industrial Chemistry; Chemical Engineering; Process Design,M.Sc Chemistry,Amritsar
+178,Housing/Infrastructure,Civil Engineering; Urban Planning; Project Management; Structural Analysis,Diploma Civil,Hyderabad
+179,Education,Teaching; Educational Research; Curriculum Development,M.Ed,Guwahati
+180,Education,Assessment Design; Teaching; Classroom Management; Public Speaking; Curriculum Development,M.Ed,Nagpur
+181,Travel & Logistics,Inventory Management; Customer Service; Supply Chain; Warehouse Management,MBA Operations,Kalyan
+182,Defence,Weapon Systems; Strategic Planning; Military Tactics,B.Tech Electronics,Bangalore
+183,IT/Software,Python; Cloud Computing; C++; Data Analysis; Machine Learning,MCA,Tiruchirappalli
+184,Pharamaceutical,Clinical Trials; Quality Control; Medical Research; Pharmacology; Drug Development; Regulatory Affairs,M.Pharm,Agra
+185,Healthcare,Patient Care; Phlebotomy; Public Health,B.Sc Nursing,Jaipur
+186,Gems & Jewellery,Retail Management; CAD Design; Quality Control; Merchandising; Jewellery Design; Gemology,Certificate in Gemology,Hyderabad
+187,Travel & Logistics,Transportation Planning; Supply Chain; Customer Service; Inventory Management; Operations Management,Diploma Logistics,Thane
+188,Design,Graphic Design; 3D Modeling; AutoCAD; UI/UX,M.Des,Howrah
+189,Design,Illustration; Adobe Photoshop; UI/UX; Graphic Design; AutoCAD,Diploma in Design,Bangalore
+190,Housing/Infrastructure,Urban Planning; Project Management; Civil Engineering,M.Tech Structural Engineering,Aurangabad
+191,Housing/Infrastructure,AutoCAD; Structural Analysis; Urban Planning; Project Management,M.Tech Structural Engineering,Patna
+192,Research,Laboratory Techniques; Statistics; Experimentation; Machine Learning; Data Analysis,M.Sc Research Methodology,Kanpur
+193,Chemical Industries,Quality Control; Chemical Engineering; Material Science; Industrial Chemistry; Process Design,M.Sc Chemistry,Mumbai
+194,Research,Statistics; Experimentation; Machine Learning,PhD,Hyderabad
+195,Education,Assessment Design; Educational Research; Public Speaking; Teaching,M.Ed,Rajkot
+196,Chemical Industries,Quality Control; Chemical Engineering; Material Science; Safety Management; Industrial Chemistry,M.Sc Chemistry,Chandigarh
+197,Research,Data Analysis; Statistics; Machine Learning; Experimentation,M.Tech,Tiruchirappalli
+198,IT/Software,Web Development; SQL; Machine Learning; Cybersecurity,B.Tech Information Technology,Kolkata
+199,Education,Public Speaking; Curriculum Development; Classroom Management; Assessment Design; Teaching; Educational Research,M.Ed,Howrah
+200,Gems & Jewellery,Jewellery Design; Quality Control; Retail Management; Merchandising; CAD Design,B.Des Jewellery,Tiruchirappalli
+201,Design,3D Modeling; Graphic Design; Illustration,M.Des,Howrah
+202,Pharamaceutical,Pharmacology; Quality Control; Drug Development; Regulatory Affairs,PhD Pharmacy,Chennai
+203,Travel & Logistics,Inventory Management; Operations Management; Supply Chain,Diploma Logistics,Vijayawada
+204,Education,Public Speaking; Assessment Design; Teaching; Educational Research; Classroom Management,PhD Education,Mysore
+205,Education,Educational Research; Curriculum Development; Public Speaking; Classroom Management; Assessment Design; Teaching,PhD Education,Faridabad
+206,Healthcare,Surgery Assistance; Nursing; Phlebotomy; Patient Care; Public Health,B.Sc Nursing,Solapur
+207,Finance/Banking,Accounting; Excel; Investment Banking,CA,Allahabad
+208,IT/Software,Cybersecurity; Python; SQL; Machine Learning,B.Tech Computer Science,Ludhiana
+209,Design,AutoCAD; Graphic Design; UI/UX; 3D Modeling,M.Des,Meerut
+210,IT/Software,Web Development; Cloud Computing; Cybersecurity; Java,B.Tech Information Technology,Thane
+211,Housing/Infrastructure,AutoCAD; Civil Engineering; Urban Planning; Project Management,Diploma Civil,Varanasi
+212,Healthcare,Nursing; Surgery Assistance; Phlebotomy; Public Health; Clinical Research; Patient Care,MBBS,Bhopal
+213,Pharamaceutical,Regulatory Affairs; Pharmacology; Medical Research,PhD Pharmacy,Guwahati
+214,Chemical Industries,Industrial Chemistry; Process Design; Safety Management; Material Science,M.Sc Chemistry,Delhi
+215,Chemical Industries,Quality Control; Chemical Engineering; Industrial Chemistry; Process Design,B.Tech Chemical Engineering,Hubli
+216,Design,Illustration; UI/UX; AutoCAD; Graphic Design,Diploma in Design,Agra
+217,Education,Educational Research; Teaching; Curriculum Development; Assessment Design; Classroom Management; Public Speaking,B.Ed,Patna
+218,Defence,Navigation Systems; Cybersecurity; Aerospace Engineering; Weapon Systems,B.Tech Mechanical,Srinagar
+219,Defence,Cybersecurity; Strategic Planning; Military Tactics; Navigation Systems,Defence Studies,Nashik
+220,Housing/Infrastructure,AutoCAD; Structural Analysis; Construction Management,M.Tech Structural Engineering,Bhopal
+221,Housing/Infrastructure,AutoCAD; Civil Engineering; Construction Management,Diploma Civil,Tiruchirappalli
+222,Agriculture,Irrigation Systems; Agribusiness; Soil Science; Crop Management; Fertilizer Application,Diploma Agriculture,Agra
+223,Education,Public Speaking; Assessment Design; Classroom Management; Curriculum Development; Teaching; Educational Research,PhD Education,Thane
+224,Gems & Jewellery,Gemology; Merchandising; Jewellery Design; CAD Design; Quality Control,Diploma Jewellery Design,Gwalior
+225,Finance/Banking,Risk Management; Financial Analysis; Accounting,MBA Finance,Hubli
+226,Defence,Weapon Systems; Strategic Planning; Aerospace Engineering; Cybersecurity; Military Tactics; Navigation Systems,B.Tech Mechanical,Howrah
+227,Defence,Aerospace Engineering; Weapon Systems; Military Tactics; Cybersecurity; Navigation Systems,Defence Studies,Varanasi
+228,Travel & Logistics,Customer Service; Inventory Management; Operations Management; Warehouse Management,MBA Operations,Kota
+229,Finance/Banking,Accounting; Financial Analysis; Risk Management,B.Com,Pune
+230,Education,Curriculum Development; Classroom Management; Assessment Design; Public Speaking,PhD Education,Guwahati
+231,Pharamaceutical,Medical Research; Pharmacology; Drug Development; Clinical Trials,B.Pharm,Howrah
+232,Education,Teaching; Educational Research; Curriculum Development; Classroom Management,PhD Education,Vadodara
+233,Healthcare,Phlebotomy; Clinical Research; Patient Care; Nursing; Public Health; Surgery Assistance,Diploma in Medical Lab Technology,Meerut
+234,Travel & Logistics,Customer Service; Operations Management; Warehouse Management; Transportation Planning; Inventory Management; Supply Chain,BBA,Agra
+235,Pharamaceutical,Medical Research; Pharmacology; Regulatory Affairs; Drug Development; Quality Control; Clinical Trials,B.Pharm,Jaipur
+236,Defence,Military Tactics; Cybersecurity; Weapon Systems; Navigation Systems,Defence Studies,Lucknow
+237,Design,Graphic Design; Illustration; 3D Modeling; Adobe Photoshop; AutoCAD; UI/UX,M.Des,Hubli
+238,Gems & Jewellery,Jewellery Design; Quality Control; Retail Management,Diploma Jewellery Design,Kanpur
+239,Housing/Infrastructure,Structural Analysis; Construction Management; Project Management; Civil Engineering,B.Tech Civil,Ghaziabad
+240,Travel & Logistics,Customer Service; Transportation Planning; Warehouse Management; Operations Management; Inventory Management,BBA,Ahmedabad
+241,Research,Laboratory Techniques; Experimentation; Scientific Writing; Machine Learning; Statistics,M.Sc Research Methodology,Delhi
+242,Housing/Infrastructure,Civil Engineering; Urban Planning; Structural Analysis; Construction Management,Diploma Civil,Patna
+243,Chemical Industries,Quality Control; Safety Management; Industrial Chemistry; Process Design; Chemical Engineering,B.Tech Chemical Engineering,Tiruchirappalli
+244,FMCG,Product Management; Marketing; Brand Management; Sales; Consumer Behaviour; Supply Chain,BBA,Bangalore
+245,Healthcare,Nursing; Clinical Research; Surgery Assistance; Public Health; Patient Care; Phlebotomy,B.Sc Nursing,Chennai
+246,Housing/Infrastructure,Construction Management; Project Management; Urban Planning; Structural Analysis; AutoCAD; Civil Engineering,M.Tech Structural Engineering,Hyderabad
+247,Chemical Industries,Process Design; Chemical Engineering; Industrial Chemistry; Safety Management,B.Tech Chemical Engineering,Ahmedabad
+248,Gems & Jewellery,Merchandising; Gemology; Jewellery Design; CAD Design; Retail Management; Quality Control,Certificate in Gemology,Aligarh
+249,Pharamaceutical,Pharmacology; Drug Development; Medical Research; Clinical Trials; Quality Control,B.Pharm,Delhi
+250,Travel & Logistics,Supply Chain; Operations Management; Transportation Planning; Warehouse Management; Inventory Management; Customer Service,Diploma Logistics,Navi Mumbai
+251,FMCG,Sales; Marketing; Product Management; Consumer Behaviour; Supply Chain; Brand Management,MBA Marketing,Ranchi
+252,Finance/Banking,Data Analysis; Investment Banking; Risk Management,B.Com,Ghaziabad
+253,Gems & Jewellery,Quality Control; Retail Management; CAD Design; Jewellery Design; Merchandising; Gemology,Diploma Jewellery Design,Thane
+254,Healthcare,Public Health; Surgery Assistance; Phlebotomy; Clinical Research; Nursing; Patient Care,Diploma in Medical Lab Technology,Kota
+255,Defence,Strategic Planning; Cybersecurity; Navigation Systems; Military Tactics; Weapon Systems,B.Tech Electronics,Solapur
+256,Defence,Aerospace Engineering; Navigation Systems; Military Tactics; Strategic Planning; Weapon Systems; Cybersecurity,B.Tech Electronics,Ahmedabad
+257,Travel & Logistics,Operations Management; Supply Chain; Inventory Management; Warehouse Management; Customer Service,Diploma Logistics,Chennai
+258,FMCG,Marketing; Product Management; Supply Chain; Brand Management; Sales; Consumer Behaviour,MBA Marketing,Delhi
+259,Gems & Jewellery,CAD Design; Merchandising; Quality Control; Gemology,B.Des Jewellery,Kalyan
+260,Design,Graphic Design; 3D Modeling; AutoCAD; Illustration,M.Des,Faridabad
+261,Design,Illustration; Adobe Photoshop; AutoCAD; 3D Modeling; UI/UX,Diploma in Design,Chennai
+262,Research,Experimentation; Machine Learning; Laboratory Techniques; Statistics,PhD,Kota
+263,Agriculture,Agribusiness; Crop Management; Farm Mechanization; Irrigation Systems; Soil Science; Fertilizer Application,B.Sc Agriculture,Rajkot
+264,Gems & Jewellery,Retail Management; Gemology; Merchandising,Diploma Jewellery Design,Bhopal
+265,Finance/Banking,Risk Management; Excel; Data Analysis; Accounting; Investment Banking; Financial Analysis,CA,Thane
+266,Education,Assessment Design; Teaching; Educational Research; Public Speaking; Classroom Management; Curriculum Development,PhD Education,Ghaziabad
+267,IT/Software,Python; Data Analysis; Web Development,MCA,Kolkata
+268,Defence,Military Tactics; Strategic Planning; Cybersecurity; Weapon Systems; Aerospace Engineering; Navigation Systems,B.Tech Electronics,Bhopal
+269,Finance/Banking,Financial Analysis; Excel; Investment Banking; Risk Management; Accounting,MBA Finance,Hyderabad
+270,Housing/Infrastructure,Project Management; Structural Analysis; Civil Engineering; Construction Management,B.Tech Civil,Ghaziabad
+271,Agriculture,Soil Science; Agribusiness; Irrigation Systems; Farm Mechanization,B.Sc Agriculture,Kalyan
+272,Housing/Infrastructure,Project Management; Construction Management; Civil Engineering,Diploma Civil,Visakhapatnam
+273,Travel & Logistics,Transportation Planning; Supply Chain; Operations Management,BBA,Nagpur
+274,Education,Educational Research; Assessment Design; Curriculum Development; Public Speaking; Classroom Management,M.Ed,Aurangabad
+275,FMCG,Marketing; Product Management; Brand Management; Consumer Behaviour; Supply Chain; Sales,BBA,Gwalior
+276,Finance/Banking,Investment Banking; Data Analysis; Accounting,MBA Finance,Guwahati
+277,Education,Public Speaking; Curriculum Development; Classroom Management,PhD Education,Howrah
+278,Education,Curriculum Development; Educational Research; Assessment Design; Teaching,B.Ed,Aligarh
+279,FMCG,Sales; Marketing; Product Management; Brand Management; Supply Chain,Diploma Business Management,Varanasi
+280,Design,Illustration; 3D Modeling; AutoCAD; UI/UX; Adobe Photoshop,B.Des,Bareilly
+281,Design,3D Modeling; Graphic Design; AutoCAD; UI/UX; Illustration; Adobe Photoshop,M.Des,Ludhiana
+282,Gems & Jewellery,Quality Control; CAD Design; Merchandising; Gemology,Diploma Jewellery Design,Kolkata
+283,Research,Laboratory Techniques; Experimentation; Data Analysis,PhD,Delhi
+284,Healthcare,Surgery Assistance; Phlebotomy; Clinical Research,Diploma in Medical Lab Technology,Gwalior
+285,Design,Illustration; AutoCAD; Adobe Photoshop; Graphic Design; UI/UX,Diploma in Design,Allahabad
+286,Gems & Jewellery,Merchandising; Quality Control; Jewellery Design,Diploma Jewellery Design,Vadodara
+287,Travel & Logistics,Warehouse Management; Transportation Planning; Inventory Management,MBA Operations,Hyderabad
+288,Education,Teaching; Educational Research; Public Speaking; Assessment Design,PhD Education,Rajkot
+289,Healthcare,Clinical Research; Nursing; Surgery Assistance,MD,Navi Mumbai
+290,FMCG,Product Management; Marketing; Brand Management,Diploma Business Management,Vadodara
+291,Travel & Logistics,Inventory Management; Operations Management; Supply Chain; Transportation Planning; Customer Service,BBA,Kanpur
+292,Travel & Logistics,Supply Chain; Transportation Planning; Inventory Management; Warehouse Management; Customer Service; Operations Management,BBA,Mumbai
+293,Travel & Logistics,Operations Management; Inventory Management; Supply Chain; Transportation Planning,MBA Operations,Guwahati
+294,Healthcare,Public Health; Nursing; Surgery Assistance; Phlebotomy,B.Sc Nursing,Jabalpur
+295,IT/Software,Machine Learning; Cybersecurity; C++; SQL,MCA,Visakhapatnam
+296,Research,Data Analysis; Machine Learning; Experimentation; Laboratory Techniques; Scientific Writing; Statistics,M.Sc Research Methodology,Guwahati
+297,Healthcare,Surgery Assistance; Patient Care; Clinical Research; Public Health; Nursing; Phlebotomy,MBBS,Nagpur
+298,Research,Statistics; Scientific Writing; Laboratory Techniques; Data Analysis; Experimentation,M.Sc Research Methodology,Nashik
+299,IT/Software,Cybersecurity; Java; C++,MCA,Lucknow
+300,Education,Assessment Design; Educational Research; Curriculum Development; Teaching,M.Ed,Vadodara
+301,IT/Software,Cloud Computing; Java; Data Analysis,MCA,Nagpur
+302,Design,UI/UX; AutoCAD; Illustration; Adobe Photoshop; 3D Modeling; Graphic Design,Diploma in Design,Varanasi
+303,Defence,Military Tactics; Weapon Systems; Aerospace Engineering; Navigation Systems,B.Tech Mechanical,Aligarh
+304,Design,Graphic Design; Adobe Photoshop; UI/UX,M.Des,Jodhpur
+305,Agriculture,Farm Mechanization; Fertilizer Application; Agribusiness,M.Sc Agriculture,Vadodara
+306,Agriculture,Irrigation Systems; Crop Management; Farm Mechanization; Agribusiness; Soil Science; Fertilizer Application,Diploma Agriculture,Aurangabad
+307,Agriculture,Agribusiness; Crop Management; Farm Mechanization; Fertilizer Application; Irrigation Systems,Diploma Agriculture,Jodhpur
+308,Finance/Banking,Data Analysis; Accounting; Financial Analysis,B.Com,Vadodara
+309,Research,Experimentation; Data Analysis; Laboratory Techniques; Statistics; Machine Learning,M.Sc Research Methodology,Indore
+310,Travel & Logistics,Warehouse Management; Customer Service; Transportation Planning,MBA Operations,Allahabad
+311,Education,Curriculum Development; Educational Research; Teaching; Assessment Design; Public Speaking,PhD Education,Jabalpur
+312,Healthcare,Patient Care; Phlebotomy; Nursing; Surgery Assistance; Public Health; Clinical Research,Diploma in Medical Lab Technology,Agra
+313,Gems & Jewellery,Quality Control; Gemology; Retail Management; CAD Design; Merchandising; Jewellery Design,Certificate in Gemology,Raipur
+314,Design,Illustration; Adobe Photoshop; AutoCAD; Graphic Design; UI/UX,B.Des,Jodhpur
+315,Defence,Military Tactics; Cybersecurity; Aerospace Engineering; Weapon Systems,B.Tech Electronics,Jabalpur
+316,Housing/Infrastructure,Civil Engineering; Construction Management; AutoCAD; Project Management; Structural Analysis,B.Tech Civil,Chandigarh
+317,Agriculture,Irrigation Systems; Soil Science; Farm Mechanization; Agribusiness,M.Sc Agriculture,Aligarh
+318,Pharamaceutical,Clinical Trials; Regulatory Affairs; Drug Development,M.Pharm,Vadodara
+319,Pharamaceutical,Pharmacology; Regulatory Affairs; Medical Research; Quality Control,B.Pharm,Ranchi
+320,Pharamaceutical,Quality Control; Pharmacology; Drug Development,PhD Pharmacy,Kalyan
+321,Design,UI/UX; 3D Modeling; Adobe Photoshop; Illustration; Graphic Design,Diploma in Design,Thane
+322,FMCG,Consumer Behaviour; Sales; Brand Management; Marketing; Product Management; Supply Chain,MBA Marketing,Ranchi
+323,Finance/Banking,Financial Analysis; Excel; Accounting; Investment Banking; Risk Management,CA,Guwahati
+324,Housing/Infrastructure,AutoCAD; Civil Engineering; Project Management; Structural Analysis,Diploma Civil,Visakhapatnam
+325,Gems & Jewellery,Retail Management; Gemology; Merchandising; Quality Control,Certificate in Gemology,Bhopal
+326,Research,Statistics; Data Analysis; Laboratory Techniques; Scientific Writing,PhD,Dhanbad
+327,Defence,Strategic Planning; Military Tactics; Weapon Systems; Navigation Systems; Aerospace Engineering,B.Tech Electronics,Guwahati
+328,Chemical Industries,Material Science; Safety Management; Quality Control; Industrial Chemistry; Process Design; Chemical Engineering,M.Sc Chemistry,Meerut
+329,Defence,Strategic Planning; Weapon Systems; Military Tactics,Defence Studies,Ghaziabad
+330,Chemical Industries,Chemical Engineering; Safety Management; Industrial Chemistry; Material Science; Quality Control; Process Design,M.Sc Chemistry,Allahabad
+331,Pharamaceutical,Pharmacology; Drug Development; Medical Research; Clinical Trials; Regulatory Affairs; Quality Control,B.Pharm,Mumbai
+332,Pharamaceutical,Regulatory Affairs; Medical Research; Clinical Trials; Quality Control; Pharmacology,M.Pharm,Vadodara
+333,Pharamaceutical,Pharmacology; Regulatory Affairs; Clinical Trials; Medical Research,M.Pharm,Thane
+334,Education,Teaching; Classroom Management; Curriculum Development; Public Speaking; Assessment Design; Educational Research,M.Ed,Aurangabad
+335,Education,Assessment Design; Teaching; Public Speaking; Classroom Management; Curriculum Development; Educational Research,PhD Education,Nagpur
+336,Gems & Jewellery,CAD Design; Retail Management; Jewellery Design,B.Des Jewellery,Amritsar
+337,Finance/Banking,Excel; Data Analysis; Accounting,B.Com,Visakhapatnam
+338,Gems & Jewellery,Gemology; Jewellery Design; Merchandising; CAD Design,Diploma Jewellery Design,Raipur
+339,Pharamaceutical,Pharmacology; Clinical Trials; Quality Control; Drug Development,M.Pharm,Bareilly
+340,Pharamaceutical,Quality Control; Clinical Trials; Pharmacology; Drug Development; Medical Research; Regulatory Affairs,B.Pharm,Indore
+341,Finance/Banking,Investment Banking; Risk Management; Auditing; Data Analysis,B.Com,Guwahati
+342,Education,Assessment Design; Classroom Management; Teaching; Educational Research,M.Ed,Ludhiana
+343,Travel & Logistics,Inventory Management; Transportation Planning; Operations Management; Warehouse Management; Customer Service,MBA Operations,Kolkata
+344,FMCG,Brand Management; Supply Chain; Product Management; Sales,Diploma Business Management,Bareilly
+345,IT/Software,Machine Learning; Java; Data Analysis,B.Tech Information Technology,Kota
+346,FMCG,Consumer Behaviour; Product Management; Supply Chain; Marketing,Diploma Business Management,Raipur
+347,Chemical Industries,Quality Control; Process Design; Chemical Engineering; Industrial Chemistry,M.Sc Chemistry,Kota
+348,Chemical Industries,Safety Management; Process Design; Industrial Chemistry; Chemical Engineering,M.Sc Chemistry,Hubli
+349,FMCG,Marketing; Supply Chain; Sales,BBA,Rajkot
+350,Defence,Cybersecurity; Navigation Systems; Aerospace Engineering; Strategic Planning,B.Tech Electronics,Aurangabad
+351,Healthcare,Nursing; Phlebotomy; Surgery Assistance; Clinical Research; Patient Care,MD,Srinagar
+352,Defence,Strategic Planning; Military Tactics; Cybersecurity,Defence Studies,Ranchi
+353,FMCG,Supply Chain; Product Management; Marketing; Brand Management; Sales,MBA Marketing,Chennai
+354,Chemical Industries,Industrial Chemistry; Process Design; Chemical Engineering; Material Science; Safety Management; Quality Control,M.Sc Chemistry,Ahmedabad
+355,IT/Software,Python; Java; C++; SQL; Web Development; Cloud Computing,B.Tech Information Technology,Chennai
+356,Gems & Jewellery,Merchandising; Gemology; Retail Management,Certificate in Gemology,Hubli
+357,Research,Scientific Writing; Statistics; Data Analysis; Laboratory Techniques; Experimentation; Machine Learning,M.Sc Research Methodology,Jabalpur
+358,Chemical Industries,Industrial Chemistry; Material Science; Safety Management; Quality Control,B.Tech Chemical Engineering,Agra
+359,Housing/Infrastructure,Structural Analysis; Civil Engineering; Urban Planning,M.Tech Structural Engineering,Jodhpur
+360,Healthcare,Surgery Assistance; Nursing; Phlebotomy; Clinical Research; Public Health,B.Sc Nursing,Srinagar
+361,Housing/Infrastructure,Structural Analysis; Civil Engineering; Urban Planning; AutoCAD; Project Management; Construction Management,B.Tech Civil,Ghaziabad
+362,Chemical Industries,Industrial Chemistry; Safety Management; Quality Control; Material Science; Process Design,M.Sc Chemistry,Patna
+363,Agriculture,Farm Mechanization; Crop Management; Fertilizer Application; Agribusiness,Diploma Agriculture,Srinagar
+364,Travel & Logistics,Customer Service; Warehouse Management; Supply Chain; Operations Management; Inventory Management,MBA Operations,Chandigarh
+365,Healthcare,Phlebotomy; Public Health; Nursing; Patient Care; Clinical Research,Diploma in Medical Lab Technology,Aurangabad
+366,Healthcare,Phlebotomy; Surgery Assistance; Nursing; Clinical Research,MBBS,Howrah
+367,Research,Statistics; Data Analysis; Machine Learning; Experimentation,M.Tech,Delhi
+368,FMCG,Sales; Marketing; Consumer Behaviour,Diploma Business Management,Aligarh
+369,Finance/Banking,Financial Analysis; Data Analysis; Accounting; Investment Banking; Auditing; Excel,CA,Solapur
+370,Pharamaceutical,Quality Control; Drug Development; Clinical Trials; Pharmacology,M.Pharm,Nashik
+371,Design,Illustration; Adobe Photoshop; Graphic Design; 3D Modeling; AutoCAD; UI/UX,M.Des,Chandigarh
+372,Healthcare,Patient Care; Surgery Assistance; Public Health; Clinical Research,B.Sc Nursing,Jaipur
+373,Design,UI/UX; Adobe Photoshop; Graphic Design; Illustration; 3D Modeling,M.Des,Kanpur
+374,FMCG,Consumer Behaviour; Product Management; Marketing; Sales,BBA,Navi Mumbai
+375,IT/Software,Web Development; Cloud Computing; Cybersecurity; Java; Python; Data Analysis,MCA,Ahmedabad
+376,Travel & Logistics,Customer Service; Operations Management; Transportation Planning,MBA Operations,Gwalior
+377,FMCG,Sales; Brand Management; Product Management; Marketing,BBA,Rajkot
+378,Research,Data Analysis; Laboratory Techniques; Machine Learning; Scientific Writing; Statistics; Experimentation,M.Tech,Amritsar
+379,Design,Graphic Design; 3D Modeling; Illustration; Adobe Photoshop; AutoCAD; UI/UX,Diploma in Design,Varanasi
+380,Finance/Banking,Excel; Risk Management; Financial Analysis; Accounting,CA,Ludhiana
+381,Design,UI/UX; Illustration; AutoCAD; Graphic Design; Adobe Photoshop,Diploma in Design,Nagpur
+382,Travel & Logistics,Operations Management; Inventory Management; Transportation Planning; Supply Chain; Warehouse Management,Diploma Logistics,Indore
+383,Chemical Industries,Material Science; Industrial Chemistry; Quality Control; Chemical Engineering,B.Tech Chemical Engineering,Howrah
+384,FMCG,Consumer Behaviour; Product Management; Brand Management; Supply Chain; Sales,Diploma Business Management,Indore
+385,Pharamaceutical,Medical Research; Regulatory Affairs; Drug Development; Quality Control,PhD Pharmacy,Kota
+386,Finance/Banking,Investment Banking; Financial Analysis; Excel,CA,Bareilly
+387,Agriculture,Soil Science; Agribusiness; Farm Mechanization,B.Sc Agriculture,Amritsar
+388,IT/Software,Web Development; SQL; Java,B.Tech Information Technology,Dhanbad
+389,Gems & Jewellery,Gemology; Jewellery Design; Quality Control; CAD Design; Retail Management,Diploma Jewellery Design,Ahmedabad
+390,Defence,Cybersecurity; Strategic Planning; Military Tactics; Weapon Systems,B.Tech Electronics,Howrah
+391,Housing/Infrastructure,Urban Planning; Structural Analysis; Construction Management; Project Management; AutoCAD,M.Tech Structural Engineering,Hyderabad
+392,Defence,Cybersecurity; Aerospace Engineering; Military Tactics; Navigation Systems; Weapon Systems,B.Tech Electronics,Solapur
+393,Design,UI/UX; Graphic Design; AutoCAD; Illustration; 3D Modeling; Adobe Photoshop,M.Des,Lucknow
+394,Travel & Logistics,Transportation Planning; Operations Management; Inventory Management; Customer Service,MBA Operations,Indore
+395,Healthcare,Phlebotomy; Nursing; Patient Care,B.Sc Nursing,Bareilly
+396,Chemical Industries,Safety Management; Quality Control; Chemical Engineering; Material Science; Industrial Chemistry,B.Tech Chemical Engineering,Aurangabad
+397,Research,Experimentation; Data Analysis; Statistics; Laboratory Techniques,M.Tech,Mumbai
+398,Finance/Banking,Excel; Investment Banking; Data Analysis; Accounting; Financial Analysis,CA,Thane
+399,Agriculture,Agribusiness; Irrigation Systems; Crop Management,Diploma Agriculture,Lucknow
+400,Travel & Logistics,Operations Management; Supply Chain; Warehouse Management; Inventory Management,BBA,Allahabad
+401,Research,Experimentation; Scientific Writing; Data Analysis; Statistics; Laboratory Techniques; Machine Learning,PhD,Solapur
+402,Design,AutoCAD; 3D Modeling; UI/UX; Illustration; Graphic Design,B.Des,Rajkot
+403,Agriculture,Crop Management; Irrigation Systems; Fertilizer Application; Farm Mechanization; Soil Science; Agribusiness,M.Sc Agriculture,Jaipur
+404,Agriculture,Fertilizer Application; Irrigation Systems; Soil Science; Agribusiness,B.Sc Agriculture,Patna
+405,Healthcare,Patient Care; Surgery Assistance; Nursing,MD,Agra
+406,FMCG,Marketing; Consumer Behaviour; Brand Management; Product Management; Supply Chain,BBA,Bhopal
+407,Defence,Navigation Systems; Strategic Planning; Cybersecurity; Weapon Systems,Defence Studies,Kalyan
+408,Pharamaceutical,Regulatory Affairs; Medical Research; Clinical Trials,PhD Pharmacy,Bareilly
+409,Finance/Banking,Data Analysis; Excel; Accounting; Risk Management,MBA Finance,Jabalpur
+410,Design,Graphic Design; UI/UX; Illustration,B.Des,Tiruchirappalli
+411,Education,Assessment Design; Curriculum Development; Educational Research,PhD Education,Meerut
+412,Defence,Cybersecurity; Military Tactics; Aerospace Engineering; Navigation Systems; Weapon Systems,Defence Studies,Navi Mumbai
+413,Defence,Cybersecurity; Strategic Planning; Navigation Systems; Aerospace Engineering; Weapon Systems,B.Tech Mechanical,Lucknow
+414,Chemical Industries,Industrial Chemistry; Chemical Engineering; Process Design; Quality Control,M.Sc Chemistry,Ranchi
+415,IT/Software,Cloud Computing; C++; Web Development,B.Tech Computer Science,Aurangabad
+416,Healthcare,Nursing; Public Health; Clinical Research; Surgery Assistance; Phlebotomy,Diploma in Medical Lab Technology,Jodhpur
+417,Finance/Banking,Risk Management; Accounting; Investment Banking,B.Com,Aligarh
+418,Defence,Cybersecurity; Navigation Systems; Aerospace Engineering; Military Tactics,B.Tech Electronics,Raipur
+419,Research,Statistics; Experimentation; Laboratory Techniques; Data Analysis; Machine Learning; Scientific Writing,PhD,Kolkata
+420,Gems & Jewellery,Retail Management; Gemology; Quality Control; Jewellery Design; Merchandising,B.Des Jewellery,Delhi
+421,Agriculture,Crop Management; Fertilizer Application; Agribusiness,Diploma Agriculture,Dhanbad
+422,Housing/Infrastructure,Construction Management; Civil Engineering; AutoCAD; Structural Analysis; Urban Planning; Project Management,B.Tech Civil,Mysore
+423,FMCG,Consumer Behaviour; Brand Management; Sales; Product Management; Marketing,MBA Marketing,Meerut
+424,Travel & Logistics,Customer Service; Supply Chain; Inventory Management; Warehouse Management; Transportation Planning; Operations Management,Diploma Logistics,Hubli
+425,Travel & Logistics,Supply Chain; Transportation Planning; Warehouse Management,Diploma Logistics,Hubli
+426,Education,Public Speaking; Curriculum Development; Assessment Design; Teaching; Educational Research; Classroom Management,PhD Education,Agra
+427,Education,Public Speaking; Teaching; Assessment Design; Curriculum Development; Educational Research; Classroom Management,B.Ed,Allahabad
+428,Defence,Aerospace Engineering; Military Tactics; Weapon Systems; Cybersecurity; Strategic Planning,B.Tech Electronics,Thane
+429,Gems & Jewellery,Quality Control; Jewellery Design; Merchandising; Gemology; CAD Design; Retail Management,Certificate in Gemology,Visakhapatnam
+430,Chemical Industries,Chemical Engineering; Safety Management; Material Science; Process Design; Industrial Chemistry,B.Tech Chemical Engineering,Meerut
+431,Education,Curriculum Development; Teaching; Public Speaking; Assessment Design,M.Ed,Kota
+432,Agriculture,Agribusiness; Fertilizer Application; Crop Management; Farm Mechanization,B.Sc Agriculture,Thane
+433,IT/Software,C++; Machine Learning; Cybersecurity,MCA,Hubli
+434,Travel & Logistics,Warehouse Management; Transportation Planning; Inventory Management; Supply Chain; Operations Management; Customer Service,BBA,Faridabad
+435,Finance/Banking,Excel; Investment Banking; Auditing; Financial Analysis,B.Com,Lucknow
+436,Agriculture,Soil Science; Agribusiness; Irrigation Systems; Farm Mechanization,M.Sc Agriculture,Patna
+437,FMCG,Marketing; Supply Chain; Consumer Behaviour,Diploma Business Management,Amritsar
+438,Finance/Banking,Accounting; Auditing; Investment Banking,MBA Finance,Madurai
+439,Travel & Logistics,Inventory Management; Customer Service; Operations Management; Warehouse Management,BBA,Srinagar
+440,Finance/Banking,Accounting; Risk Management; Financial Analysis; Investment Banking; Data Analysis; Auditing,MBA Finance,Amritsar
+441,Pharamaceutical,Medical Research; Pharmacology; Drug Development; Regulatory Affairs,M.Pharm,Madurai
+442,Finance/Banking,Accounting; Auditing; Risk Management,B.Com,Aurangabad
+443,Agriculture,Crop Management; Soil Science; Irrigation Systems,Diploma Agriculture,Aurangabad
+444,Housing/Infrastructure,Structural Analysis; Urban Planning; Project Management; Civil Engineering,M.Tech Structural Engineering,Nagpur
+445,Design,UI/UX; Illustration; Graphic Design,M.Des,Navi Mumbai
+446,FMCG,Product Management; Supply Chain; Consumer Behaviour; Sales; Brand Management; Marketing,BBA,Srinagar
+447,Travel & Logistics,Transportation Planning; Warehouse Management; Supply Chain; Operations Management,Diploma Logistics,Hyderabad
+448,Travel & Logistics,Inventory Management; Transportation Planning; Customer Service,MBA Operations,Ludhiana
+449,Housing/Infrastructure,Structural Analysis; Construction Management; Urban Planning,Diploma Civil,Allahabad
+450,Finance/Banking,Data Analysis; Investment Banking; Auditing; Accounting; Financial Analysis,B.Com,Kota
+451,Design,AutoCAD; Adobe Photoshop; Graphic Design; UI/UX; Illustration; 3D Modeling,Diploma in Design,Chandigarh
+452,Chemical Industries,Process Design; Industrial Chemistry; Material Science; Chemical Engineering; Quality Control,M.Sc Chemistry,Gwalior
+453,Healthcare,Nursing; Clinical Research; Phlebotomy,B.Sc Nursing,Chennai
+454,Gems & Jewellery,Jewellery Design; Retail Management; Merchandising; CAD Design,B.Des Jewellery,Jaipur
+455,IT/Software,SQL; Python; Java; Data Analysis,B.Tech Information Technology,Kalyan
+456,Research,Experimentation; Data Analysis; Machine Learning; Laboratory Techniques,M.Sc Research Methodology,Kolkata
+457,Research,Statistics; Data Analysis; Laboratory Techniques; Machine Learning; Scientific Writing,M.Sc Research Methodology,Ranchi
+458,Travel & Logistics,Warehouse Management; Transportation Planning; Inventory Management,Diploma Logistics,Howrah
+459,Gems & Jewellery,Retail Management; Jewellery Design; Quality Control; Merchandising,Diploma Jewellery Design,Visakhapatnam
+460,Travel & Logistics,Operations Management; Inventory Management; Transportation Planning; Warehouse Management,Diploma Logistics,Bhopal
+461,Design,UI/UX; Graphic Design; Adobe Photoshop; AutoCAD; Illustration,Diploma in Design,Jabalpur
+462,Healthcare,Patient Care; Nursing; Clinical Research; Public Health; Surgery Assistance; Phlebotomy,MD,Gwalior
+463,Chemical Industries,Quality Control; Material Science; Process Design; Safety Management,B.Tech Chemical Engineering,Jaipur
+464,Housing/Infrastructure,Construction Management; AutoCAD; Civil Engineering; Urban Planning,B.Tech Civil,Agra
+465,FMCG,Consumer Behaviour; Product Management; Brand Management; Marketing,BBA,Hyderabad
+466,Research,Data Analysis; Laboratory Techniques; Machine Learning; Experimentation; Scientific Writing,M.Tech,Allahabad
+467,IT/Software,C++; SQL; Data Analysis,MCA,Patna
+468,Agriculture,Soil Science; Irrigation Systems; Agribusiness,M.Sc Agriculture,Jabalpur
+469,Chemical Industries,Process Design; Quality Control; Material Science; Chemical Engineering; Safety Management,M.Sc Chemistry,Mysore
+470,Housing/Infrastructure,Civil Engineering; Structural Analysis; AutoCAD; Project Management; Urban Planning,M.Tech Structural Engineering,Mysore
+471,Housing/Infrastructure,Structural Analysis; Project Management; Civil Engineering; Construction Management; Urban Planning,M.Tech Structural Engineering,Gwalior
+472,Gems & Jewellery,Quality Control; Gemology; Jewellery Design; Merchandising; Retail Management; CAD Design,Diploma Jewellery Design,Visakhapatnam
+473,Travel & Logistics,Warehouse Management; Supply Chain; Customer Service; Operations Management; Transportation Planning; Inventory Management,MBA Operations,Ahmedabad
+474,Housing/Infrastructure,Structural Analysis; Project Management; Construction Management,B.Tech Civil,Nashik
+475,IT/Software,Data Analysis; C++; Cybersecurity; Web Development; Machine Learning,B.Tech Information Technology,Meerut
+476,Finance/Banking,Data Analysis; Financial Analysis; Accounting,B.Com,Indore
+477,Finance/Banking,Risk Management; Data Analysis; Financial Analysis; Auditing; Accounting; Investment Banking,B.Com,Ludhiana
+478,Healthcare,Clinical Research; Patient Care; Surgery Assistance,Diploma in Medical Lab Technology,Ahmedabad
+479,Defence,Weapon Systems; Strategic Planning; Cybersecurity; Military Tactics; Aerospace Engineering,B.Tech Mechanical,Raipur
+480,Travel & Logistics,Warehouse Management; Operations Management; Customer Service,MBA Operations,Rajkot
+481,Design,Illustration; Graphic Design; AutoCAD; Adobe Photoshop; 3D Modeling; UI/UX,B.Des,Navi Mumbai
+482,Pharamaceutical,Drug Development; Clinical Trials; Medical Research; Pharmacology; Quality Control,M.Pharm,Allahabad
+483,Chemical Industries,Safety Management; Industrial Chemistry; Material Science; Quality Control; Chemical Engineering,M.Sc Chemistry,Howrah
+484,Housing/Infrastructure,Construction Management; Project Management; Structural Analysis; Urban Planning; AutoCAD; Civil Engineering,B.Tech Civil,Tiruchirappalli
+485,IT/Software,Web Development; Cybersecurity; Java,B.Tech Computer Science,Ranchi
+486,Research,Machine Learning; Statistics; Scientific Writing; Experimentation,M.Tech,Vadodara
+487,IT/Software,Cybersecurity; Java; Web Development; C++; Data Analysis,B.Tech Information Technology,Visakhapatnam
+488,FMCG,Sales; Product Management; Brand Management; Marketing,MBA Marketing,Tiruchirappalli
+489,Defence,Cybersecurity; Military Tactics; Navigation Systems; Weapon Systems; Aerospace Engineering; Strategic Planning,Defence Studies,Hyderabad
+490,Defence,Aerospace Engineering; Weapon Systems; Navigation Systems; Cybersecurity; Military Tactics; Strategic Planning,B.Tech Mechanical,Indore
+491,Education,Classroom Management; Teaching; Assessment Design,PhD Education,Mumbai
+492,Gems & Jewellery,Quality Control; Jewellery Design; CAD Design,Diploma Jewellery Design,Ranchi
+493,Gems & Jewellery,Merchandising; Jewellery Design; Retail Management; Gemology; Quality Control,Certificate in Gemology,Dhanbad
+494,Agriculture,Fertilizer Application; Soil Science; Irrigation Systems; Crop Management; Agribusiness; Farm Mechanization,M.Sc Agriculture,Kolkata
+495,Agriculture,Agribusiness; Farm Mechanization; Soil Science; Irrigation Systems,B.Sc Agriculture,Chandigarh
+496,Gems & Jewellery,CAD Design; Jewellery Design; Merchandising,Certificate in Gemology,Tiruchirappalli
+497,Travel & Logistics,Warehouse Management; Operations Management; Inventory Management; Transportation Planning,MBA Operations,Varanasi
+498,Gems & Jewellery,CAD Design; Retail Management; Merchandising; Jewellery Design; Quality Control; Gemology,B.Des Jewellery,Hyderabad
+499,Pharamaceutical,Regulatory Affairs; Drug Development; Medical Research; Pharmacology; Clinical Trials,B.Pharm,Ludhiana
+500,Education,Classroom Management; Public Speaking; Curriculum Development; Teaching,M.Ed,Solapur
+501,Healthcare,Nursing; Phlebotomy; Surgery Assistance,MBBS,Bareilly
+502,Defence,Navigation Systems; Military Tactics; Aerospace Engineering; Cybersecurity; Strategic Planning,Defence Studies,Raipur
+503,Pharamaceutical,Clinical Trials; Medical Research; Drug Development,B.Pharm,Thane
+504,IT/Software,SQL; Java; Python; Machine Learning; Web Development; Data Analysis,MCA,Howrah
+505,IT/Software,Python; Cybersecurity; C++,MCA,Jabalpur
+506,Pharamaceutical,Regulatory Affairs; Pharmacology; Drug Development; Quality Control; Medical Research,PhD Pharmacy,Gwalior
+507,Gems & Jewellery,Retail Management; Jewellery Design; Quality Control; Gemology,Certificate in Gemology,Tiruchirappalli
+508,Gems & Jewellery,Retail Management; Merchandising; Gemology; CAD Design; Jewellery Design,B.Des Jewellery,Mysore
+509,Gems & Jewellery,Merchandising; Quality Control; Gemology; Retail Management; Jewellery Design,Certificate in Gemology,Ranchi
+510,Travel & Logistics,Warehouse Management; Inventory Management; Customer Service; Operations Management; Supply Chain; Transportation Planning,MBA Operations,Kota
+511,Gems & Jewellery,Jewellery Design; Gemology; Retail Management; CAD Design,B.Des Jewellery,Patna
+512,Finance/Banking,Accounting; Excel; Data Analysis; Risk Management; Financial Analysis,MBA Finance,Kolkata
+513,Travel & Logistics,Customer Service; Inventory Management; Supply Chain,BBA,Visakhapatnam
+514,Housing/Infrastructure,Construction Management; Urban Planning; Project Management; Civil Engineering; AutoCAD,B.Tech Civil,Ghaziabad
+515,Defence,Cybersecurity; Aerospace Engineering; Weapon Systems; Navigation Systems,B.Tech Electronics,Jaipur
+516,Defence,Navigation Systems; Military Tactics; Strategic Planning; Cybersecurity; Weapon Systems,B.Tech Electronics,Aligarh
+517,Chemical Industries,Chemical Engineering; Process Design; Industrial Chemistry,B.Tech Chemical Engineering,Varanasi
+518,Housing/Infrastructure,Construction Management; Project Management; Structural Analysis; Urban Planning; Civil Engineering; AutoCAD,B.Tech Civil,Dhanbad
+519,Gems & Jewellery,Merchandising; Retail Management; Jewellery Design; Gemology,B.Des Jewellery,Howrah
+520,Education,Teaching; Curriculum Development; Public Speaking; Assessment Design,M.Ed,Jodhpur
+521,FMCG,Brand Management; Consumer Behaviour; Supply Chain,Diploma Business Management,Ludhiana
+522,Chemical Industries,Industrial Chemistry; Safety Management; Chemical Engineering,B.Tech Chemical Engineering,Gwalior
+523,Agriculture,Fertilizer Application; Farm Mechanization; Crop Management; Soil Science; Irrigation Systems,Diploma Agriculture,Hubli
+524,Healthcare,Surgery Assistance; Public Health; Patient Care,MBBS,Delhi
+525,IT/Software,Machine Learning; SQL; Java; C++; Web Development; Python,B.Tech Information Technology,Nashik
+526,Agriculture,Crop Management; Irrigation Systems; Fertilizer Application; Agribusiness,B.Sc Agriculture,Madurai
+527,Defence,Aerospace Engineering; Navigation Systems; Military Tactics; Weapon Systems; Cybersecurity; Strategic Planning,B.Tech Electronics,Vadodara
+528,Travel & Logistics,Supply Chain; Transportation Planning; Customer Service; Operations Management; Inventory Management,BBA,Tiruchirappalli
+529,Education,Teaching; Educational Research; Classroom Management; Assessment Design,PhD Education,Amritsar
+530,Agriculture,Irrigation Systems; Farm Mechanization; Agribusiness; Fertilizer Application,Diploma Agriculture,Ahmedabad
+531,Defence,Navigation Systems; Strategic Planning; Cybersecurity,Defence Studies,Ghaziabad
+532,Chemical Industries,Material Science; Safety Management; Process Design; Chemical Engineering; Quality Control,B.Tech Chemical Engineering,Thane
+533,Design,Illustration; 3D Modeling; UI/UX,M.Des,Allahabad
+534,IT/Software,Cybersecurity; C++; Cloud Computing; Python; Machine Learning; Web Development,MCA,Solapur
+535,Agriculture,Fertilizer Application; Crop Management; Soil Science; Agribusiness,M.Sc Agriculture,Lucknow
+536,Finance/Banking,Auditing; Investment Banking; Data Analysis; Financial Analysis; Accounting,CA,Madurai
+537,FMCG,Product Management; Supply Chain; Sales,MBA Marketing,Srinagar
+538,Education,Classroom Management; Public Speaking; Teaching; Assessment Design; Curriculum Development,PhD Education,Hyderabad
+539,Design,Adobe Photoshop; UI/UX; Illustration; AutoCAD; 3D Modeling,Diploma in Design,Guwahati
+540,Pharamaceutical,Quality Control; Regulatory Affairs; Medical Research; Pharmacology,M.Pharm,Varanasi
+541,Research,Experimentation; Laboratory Techniques; Scientific Writing; Data Analysis,M.Tech,Navi Mumbai
+542,Housing/Infrastructure,Structural Analysis; Construction Management; Urban Planning; AutoCAD; Project Management; Civil Engineering,B.Tech Civil,Ghaziabad
+543,Travel & Logistics,Customer Service; Transportation Planning; Operations Management; Supply Chain; Warehouse Management; Inventory Management,MBA Operations,Bareilly
+544,Housing/Infrastructure,Construction Management; Civil Engineering; Urban Planning,M.Tech Structural Engineering,Delhi
+545,Housing/Infrastructure,Construction Management; Project Management; Urban Planning; Civil Engineering; Structural Analysis; AutoCAD,M.Tech Structural Engineering,Raipur
+546,Travel & Logistics,Warehouse Management; Operations Management; Transportation Planning; Supply Chain; Customer Service; Inventory Management,MBA Operations,Kota
+547,Education,Educational Research; Public Speaking; Classroom Management; Curriculum Development; Assessment Design; Teaching,B.Ed,Ghaziabad
+548,Healthcare,Clinical Research; Patient Care; Nursing; Phlebotomy; Surgery Assistance; Public Health,MBBS,Patna
+549,Research,Scientific Writing; Laboratory Techniques; Statistics; Data Analysis; Machine Learning; Experimentation,PhD,Dhanbad
+550,IT/Software,C++; Cloud Computing; Data Analysis,MCA,Amritsar
+551,Gems & Jewellery,Retail Management; Quality Control; Merchandising,Certificate in Gemology,Meerut
+552,Agriculture,Irrigation Systems; Crop Management; Agribusiness; Fertilizer Application; Soil Science,B.Sc Agriculture,Gwalior
+553,FMCG,Consumer Behaviour; Marketing; Brand Management; Product Management; Supply Chain; Sales,MBA Marketing,Navi Mumbai
+554,Housing/Infrastructure,Construction Management; Project Management; Urban Planning; Structural Analysis; Civil Engineering; AutoCAD,M.Tech Structural Engineering,Chennai
+555,Defence,Cybersecurity; Weapon Systems; Aerospace Engineering; Military Tactics,B.Tech Electronics,Ahmedabad
+556,Research,Scientific Writing; Machine Learning; Statistics; Laboratory Techniques; Data Analysis; Experimentation,PhD,Thane
+557,Defence,Military Tactics; Cybersecurity; Aerospace Engineering,B.Tech Mechanical,Gwalior
+558,Housing/Infrastructure,AutoCAD; Construction Management; Urban Planning; Project Management,Diploma Civil,Ludhiana
+559,Education,Classroom Management; Curriculum Development; Teaching; Educational Research,M.Ed,Amritsar
+560,Gems & Jewellery,CAD Design; Retail Management; Quality Control; Gemology; Merchandising,B.Des Jewellery,Faridabad
+561,Defence,Cybersecurity; Aerospace Engineering; Navigation Systems; Military Tactics; Weapon Systems; Strategic Planning,B.Tech Electronics,Ludhiana
+562,Education,Classroom Management; Curriculum Development; Teaching,M.Ed,Ludhiana
+563,Housing/Infrastructure,Construction Management; Civil Engineering; Urban Planning,Diploma Civil,Solapur
+564,Pharamaceutical,Medical Research; Drug Development; Pharmacology; Quality Control; Regulatory Affairs,B.Pharm,Vijayawada
+565,Education,Classroom Management; Public Speaking; Assessment Design; Curriculum Development; Educational Research,M.Ed,Bhopal
+566,Agriculture,Soil Science; Fertilizer Application; Crop Management; Irrigation Systems; Agribusiness,B.Sc Agriculture,Kota
+567,Finance/Banking,Accounting; Excel; Investment Banking,CA,Allahabad
+568,Finance/Banking,Excel; Investment Banking; Accounting; Auditing; Financial Analysis; Risk Management,MBA Finance,Lucknow
+569,Chemical Industries,Quality Control; Industrial Chemistry; Safety Management; Chemical Engineering; Process Design,B.Tech Chemical Engineering,Ghaziabad
+570,Travel & Logistics,Warehouse Management; Operations Management; Customer Service; Inventory Management,MBA Operations,Aligarh
+571,Housing/Infrastructure,Structural Analysis; Civil Engineering; Urban Planning; AutoCAD,Diploma Civil,Visakhapatnam
+572,Defence,Cybersecurity; Aerospace Engineering; Military Tactics,B.Tech Mechanical,Hubli
+573,Agriculture,Crop Management; Soil Science; Farm Mechanization; Agribusiness; Fertilizer Application,B.Sc Agriculture,Aligarh
+574,Travel & Logistics,Operations Management; Transportation Planning; Inventory Management; Warehouse Management; Customer Service,BBA,Ahmedabad
+575,Defence,Weapon Systems; Aerospace Engineering; Military Tactics; Cybersecurity,B.Tech Electronics,Jodhpur
+576,Education,Assessment Design; Teaching; Curriculum Development,M.Ed,Hubli
+577,Chemical Industries,Safety Management; Chemical Engineering; Quality Control,M.Sc Chemistry,Solapur
+578,Research,Experimentation; Laboratory Techniques; Machine Learning; Data Analysis; Statistics; Scientific Writing,M.Tech,Raipur
+579,Travel & Logistics,Operations Management; Transportation Planning; Inventory Management; Supply Chain; Warehouse Management; Customer Service,Diploma Logistics,Kanpur
+580,Research,Laboratory Techniques; Statistics; Scientific Writing; Machine Learning; Experimentation; Data Analysis,M.Sc Research Methodology,Howrah
+581,Finance/Banking,Data Analysis; Financial Analysis; Risk Management,MBA Finance,Aurangabad
+582,IT/Software,Cybersecurity; SQL; Machine Learning; Cloud Computing; Python; Web Development,B.Tech Information Technology,Meerut
+583,IT/Software,Data Analysis; Cloud Computing; Web Development; Cybersecurity; Machine Learning,MCA,Kanpur
+584,Pharamaceutical,Medical Research; Regulatory Affairs; Drug Development; Pharmacology,PhD Pharmacy,Mysore
+585,Defence,Military Tactics; Weapon Systems; Navigation Systems; Aerospace Engineering; Strategic Planning; Cybersecurity,B.Tech Electronics,Hyderabad
+586,Agriculture,Farm Mechanization; Fertilizer Application; Irrigation Systems; Soil Science; Crop Management; Agribusiness,Diploma Agriculture,Faridabad
+587,FMCG,Consumer Behaviour; Brand Management; Supply Chain,MBA Marketing,Visakhapatnam
+588,Finance/Banking,Risk Management; Excel; Investment Banking,CA,Tiruchirappalli
+589,Healthcare,Surgery Assistance; Patient Care; Public Health,MD,Kolkata
+590,Research,Scientific Writing; Machine Learning; Data Analysis; Laboratory Techniques; Statistics; Experimentation,M.Sc Research Methodology,Nashik
+591,Chemical Industries,Material Science; Process Design; Safety Management; Quality Control; Industrial Chemistry,B.Tech Chemical Engineering,Chennai
+592,Gems & Jewellery,Jewellery Design; CAD Design; Quality Control; Gemology; Merchandising; Retail Management,B.Des Jewellery,Varanasi
+593,Housing/Infrastructure,Construction Management; AutoCAD; Project Management; Urban Planning,Diploma Civil,Vadodara
+594,Agriculture,Farm Mechanization; Irrigation Systems; Agribusiness; Soil Science; Crop Management,Diploma Agriculture,Madurai
+595,Education,Teaching; Curriculum Development; Classroom Management; Educational Research; Assessment Design,M.Ed,Aurangabad
+596,Agriculture,Agribusiness; Fertilizer Application; Soil Science; Irrigation Systems; Farm Mechanization,B.Sc Agriculture,Guwahati
+597,Chemical Industries,Material Science; Chemical Engineering; Safety Management,M.Sc Chemistry,Kota
+598,Pharamaceutical,Regulatory Affairs; Clinical Trials; Medical Research; Pharmacology; Quality Control; Drug Development,B.Pharm,Patna
+599,Pharamaceutical,Drug Development; Medical Research; Quality Control; Clinical Trials; Regulatory Affairs; Pharmacology,M.Pharm,Nagpur
+600,Design,Adobe Photoshop; 3D Modeling; UI/UX; AutoCAD; Graphic Design; Illustration,M.Des,Ghaziabad
+601,Housing/Infrastructure,Civil Engineering; Project Management; Urban Planning; Structural Analysis; AutoCAD; Construction Management,M.Tech Structural Engineering,Pune
+602,Healthcare,Phlebotomy; Clinical Research; Patient Care,B.Sc Nursing,Hyderabad
+603,Housing/Infrastructure,Project Management; Structural Analysis; Urban Planning; Civil Engineering; AutoCAD; Construction Management,B.Tech Civil,Hubli
+604,Research,Statistics; Experimentation; Scientific Writing; Machine Learning; Laboratory Techniques; Data Analysis,M.Sc Research Methodology,Allahabad
+605,Finance/Banking,Financial Analysis; Risk Management; Auditing; Investment Banking; Excel; Accounting,B.Com,Guwahati
+606,Gems & Jewellery,Jewellery Design; Retail Management; Merchandising; CAD Design,Diploma Jewellery Design,Aurangabad
+607,Design,Adobe Photoshop; AutoCAD; 3D Modeling; UI/UX; Illustration,Diploma in Design,Bareilly
+608,Healthcare,Patient Care; Surgery Assistance; Clinical Research; Public Health; Phlebotomy; Nursing,B.Sc Nursing,Allahabad
+609,IT/Software,Web Development; SQL; C++; Machine Learning,MCA,Mumbai
+610,Defence,Aerospace Engineering; Military Tactics; Strategic Planning,B.Tech Mechanical,Meerut
+611,IT/Software,SQL; Cloud Computing; Python; Cybersecurity; Machine Learning,MCA,Lucknow
+612,Education,Curriculum Development; Teaching; Educational Research; Public Speaking,B.Ed,Thane
+613,Healthcare,Surgery Assistance; Clinical Research; Phlebotomy; Patient Care; Nursing; Public Health,MBBS,Tiruchirappalli
+614,Defence,Weapon Systems; Military Tactics; Strategic Planning; Cybersecurity; Aerospace Engineering; Navigation Systems,B.Tech Electronics,Kalyan
+615,Design,3D Modeling; AutoCAD; UI/UX; Illustration; Graphic Design,B.Des,Pune
+616,FMCG,Supply Chain; Sales; Marketing; Consumer Behaviour; Product Management,Diploma Business Management,Chandigarh
+617,Gems & Jewellery,Gemology; Jewellery Design; Merchandising,B.Des Jewellery,Thane
+618,Design,3D Modeling; Adobe Photoshop; Illustration,M.Des,Ludhiana
+619,Education,Public Speaking; Assessment Design; Classroom Management,M.Ed,Varanasi
+620,Finance/Banking,Auditing; Financial Analysis; Data Analysis; Excel; Accounting,CA,Ahmedabad
+621,Design,Adobe Photoshop; AutoCAD; 3D Modeling,Diploma in Design,Mumbai
+622,Gems & Jewellery,Gemology; CAD Design; Quality Control; Merchandising; Jewellery Design,B.Des Jewellery,Solapur
+623,Defence,Navigation Systems; Weapon Systems; Military Tactics; Cybersecurity,B.Tech Mechanical,Chennai
+624,FMCG,Supply Chain; Brand Management; Marketing,MBA Marketing,Mysore
+625,Gems & Jewellery,Quality Control; Gemology; Retail Management,B.Des Jewellery,Delhi
+626,Design,Graphic Design; 3D Modeling; Adobe Photoshop; UI/UX,M.Des,Jaipur
+627,Healthcare,Clinical Research; Public Health; Phlebotomy; Nursing; Patient Care; Surgery Assistance,B.Sc Nursing,Gwalior
+628,IT/Software,C++; Data Analysis; Web Development; Cybersecurity; SQL,B.Tech Information Technology,Nashik
+629,Design,Illustration; Adobe Photoshop; Graphic Design; UI/UX; AutoCAD; 3D Modeling,M.Des,Ahmedabad
+630,Agriculture,Crop Management; Agribusiness; Fertilizer Application; Irrigation Systems; Soil Science; Farm Mechanization,Diploma Agriculture,Aligarh
+631,FMCG,Marketing; Sales; Supply Chain; Brand Management; Consumer Behaviour; Product Management,BBA,Raipur
+632,Chemical Industries,Safety Management; Process Design; Material Science,B.Tech Chemical Engineering,Bareilly
+633,Defence,Strategic Planning; Aerospace Engineering; Cybersecurity; Weapon Systems,B.Tech Electronics,Jabalpur
+634,Design,Illustration; Graphic Design; 3D Modeling; UI/UX; Adobe Photoshop; AutoCAD,M.Des,Nashik
+635,Design,UI/UX; Graphic Design; Illustration; Adobe Photoshop; 3D Modeling; AutoCAD,Diploma in Design,Dhanbad
+636,Finance/Banking,Accounting; Data Analysis; Auditing; Excel; Financial Analysis,CA,Howrah
+637,Defence,Navigation Systems; Weapon Systems; Aerospace Engineering; Military Tactics; Cybersecurity; Strategic Planning,B.Tech Mechanical,Chandigarh
+638,Chemical Industries,Quality Control; Safety Management; Chemical Engineering; Process Design,M.Sc Chemistry,Ranchi
+639,Housing/Infrastructure,Construction Management; AutoCAD; Project Management,B.Tech Civil,Chandigarh
+640,Design,Illustration; AutoCAD; UI/UX; Adobe Photoshop; Graphic Design; 3D Modeling,Diploma in Design,Ludhiana
+641,Research,Machine Learning; Experimentation; Scientific Writing; Data Analysis; Laboratory Techniques,M.Sc Research Methodology,Amritsar
+642,Healthcare,Nursing; Public Health; Patient Care; Phlebotomy; Clinical Research; Surgery Assistance,Diploma in Medical Lab Technology,Tiruchirappalli
+643,Healthcare,Nursing; Clinical Research; Phlebotomy; Patient Care,MD,Varanasi
+644,Pharamaceutical,Pharmacology; Clinical Trials; Regulatory Affairs; Medical Research; Drug Development; Quality Control,B.Pharm,Tiruchirappalli
+645,Defence,Military Tactics; Aerospace Engineering; Weapon Systems; Navigation Systems; Strategic Planning,B.Tech Electronics,Nagpur
+646,Research,Experimentation; Statistics; Machine Learning; Data Analysis,M.Sc Research Methodology,Srinagar
+647,Healthcare,Patient Care; Clinical Research; Nursing; Phlebotomy,MBBS,Navi Mumbai
+648,Finance/Banking,Accounting; Excel; Data Analysis; Auditing,B.Com,Allahabad
+649,Defence,Weapon Systems; Navigation Systems; Cybersecurity,Defence Studies,Hubli
+650,IT/Software,SQL; Cloud Computing; Web Development; Machine Learning; C++,MCA,Thane
+651,Housing/Infrastructure,Civil Engineering; AutoCAD; Construction Management,Diploma Civil,Ranchi
+652,Pharamaceutical,Regulatory Affairs; Drug Development; Quality Control; Clinical Trials,PhD Pharmacy,Kota
+653,FMCG,Brand Management; Consumer Behaviour; Marketing; Supply Chain,BBA,Kalyan
+654,Design,Graphic Design; 3D Modeling; Illustration,Diploma in Design,Pune
+655,Agriculture,Irrigation Systems; Fertilizer Application; Farm Mechanization; Crop Management; Agribusiness,B.Sc Agriculture,Meerut
+656,Defence,Weapon Systems; Navigation Systems; Aerospace Engineering; Military Tactics; Cybersecurity,Defence Studies,Ludhiana
+657,Design,Illustration; 3D Modeling; AutoCAD,Diploma in Design,Visakhapatnam
+658,Education,Curriculum Development; Educational Research; Teaching,M.Ed,Aurangabad
+659,Research,Scientific Writing; Data Analysis; Laboratory Techniques,M.Sc Research Methodology,Navi Mumbai
+660,Gems & Jewellery,Gemology; Merchandising; Retail Management; CAD Design; Jewellery Design; Quality Control,Diploma Jewellery Design,Indore
+661,Pharamaceutical,Drug Development; Clinical Trials; Pharmacology; Medical Research,M.Pharm,Vijayawada
+662,Healthcare,Nursing; Clinical Research; Surgery Assistance,Diploma in Medical Lab Technology,Dhanbad
+663,Finance/Banking,Data Analysis; Accounting; Excel; Risk Management; Auditing; Financial Analysis,MBA Finance,Hyderabad
+664,Travel & Logistics,Operations Management; Warehouse Management; Customer Service; Supply Chain; Inventory Management; Transportation Planning,BBA,Hubli
+665,Education,Public Speaking; Educational Research; Classroom Management; Assessment Design; Curriculum Development,B.Ed,Nagpur
+666,Finance/Banking,Excel; Auditing; Risk Management; Accounting; Data Analysis,B.Com,Rajkot
+667,Design,Illustration; AutoCAD; 3D Modeling; UI/UX; Graphic Design,Diploma in Design,Kanpur
+668,Healthcare,Public Health; Phlebotomy; Surgery Assistance; Clinical Research; Patient Care,Diploma in Medical Lab Technology,Aligarh
+669,Agriculture,Fertilizer Application; Irrigation Systems; Farm Mechanization; Crop Management,Diploma Agriculture,Jodhpur
+670,Education,Educational Research; Curriculum Development; Classroom Management; Teaching,M.Ed,Kanpur
+671,Finance/Banking,Accounting; Excel; Data Analysis; Risk Management; Investment Banking; Auditing,MBA Finance,Kota
+672,Healthcare,Public Health; Surgery Assistance; Clinical Research; Nursing,MBBS,Pune
+673,Design,Illustration; UI/UX; AutoCAD,B.Des,Hubli
+674,IT/Software,Machine Learning; Python; Data Analysis; Cloud Computing; Java; SQL,B.Tech Information Technology,Chandigarh
+675,Healthcare,Clinical Research; Patient Care; Surgery Assistance; Public Health; Phlebotomy,MD,Kota
+676,Travel & Logistics,Operations Management; Warehouse Management; Inventory Management; Customer Service; Transportation Planning,Diploma Logistics,Agra
+677,Finance/Banking,Financial Analysis; Accounting; Excel; Risk Management; Auditing,CA,Meerut
+678,Chemical Industries,Industrial Chemistry; Quality Control; Material Science; Process Design,B.Tech Chemical Engineering,Hyderabad
+679,Research,Scientific Writing; Machine Learning; Statistics; Laboratory Techniques,PhD,Aligarh
+680,Chemical Industries,Material Science; Process Design; Chemical Engineering; Quality Control; Safety Management,M.Sc Chemistry,Pune
+681,Design,AutoCAD; Graphic Design; UI/UX; 3D Modeling; Adobe Photoshop; Illustration,Diploma in Design,Allahabad
+682,Healthcare,Patient Care; Clinical Research; Surgery Assistance; Public Health; Phlebotomy; Nursing,B.Sc Nursing,Srinagar
+683,Design,Graphic Design; 3D Modeling; Adobe Photoshop,B.Des,Jodhpur
+684,Agriculture,Crop Management; Farm Mechanization; Agribusiness; Fertilizer Application; Irrigation Systems; Soil Science,Diploma Agriculture,Jabalpur
+685,Education,Teaching; Classroom Management; Assessment Design; Public Speaking; Educational Research; Curriculum Development,M.Ed,Ranchi
+686,Design,AutoCAD; Adobe Photoshop; Graphic Design; Illustration; UI/UX,M.Des,Tiruchirappalli
+687,Pharamaceutical,Medical Research; Pharmacology; Quality Control; Drug Development; Clinical Trials,M.Pharm,Bareilly
+688,Gems & Jewellery,Quality Control; Retail Management; Gemology; Merchandising; CAD Design,Diploma Jewellery Design,Srinagar
+689,Gems & Jewellery,Gemology; CAD Design; Merchandising; Jewellery Design; Retail Management,Certificate in Gemology,Mumbai
+690,IT/Software,Web Development; Cloud Computing; Machine Learning; Java,B.Tech Information Technology,Aurangabad
+691,Gems & Jewellery,CAD Design; Quality Control; Jewellery Design; Merchandising; Gemology; Retail Management,B.Des Jewellery,Madurai
+692,Chemical Industries,Process Design; Safety Management; Quality Control; Material Science,B.Tech Chemical Engineering,Kota
+693,FMCG,Marketing; Brand Management; Product Management; Consumer Behaviour; Sales,BBA,Rajkot
+694,Defence,Aerospace Engineering; Navigation Systems; Weapon Systems; Strategic Planning,Defence Studies,Chennai
+695,Chemical Industries,Industrial Chemistry; Chemical Engineering; Quality Control; Material Science,B.Tech Chemical Engineering,Vijayawada
+696,Defence,Aerospace Engineering; Cybersecurity; Military Tactics; Weapon Systems,B.Tech Mechanical,Faridabad
+697,Agriculture,Fertilizer Application; Irrigation Systems; Agribusiness; Soil Science,M.Sc Agriculture,Howrah
+698,Defence,Weapon Systems; Military Tactics; Navigation Systems; Cybersecurity; Aerospace Engineering; Strategic Planning,Defence Studies,Nashik
+699,Defence,Weapon Systems; Aerospace Engineering; Cybersecurity,Defence Studies,Indore
+700,Finance/Banking,Investment Banking; Accounting; Data Analysis; Auditing; Excel,B.Com,Ghaziabad
+701,FMCG,Brand Management; Product Management; Marketing; Consumer Behaviour; Sales; Supply Chain,MBA Marketing,Ahmedabad
+702,Finance/Banking,Auditing; Excel; Investment Banking; Risk Management; Data Analysis; Financial Analysis,MBA Finance,Indore
+703,Design,Adobe Photoshop; UI/UX; Graphic Design; 3D Modeling; Illustration; AutoCAD,B.Des,Visakhapatnam
+704,Gems & Jewellery,Retail Management; Merchandising; Gemology; Jewellery Design; CAD Design; Quality Control,Certificate in Gemology,Bareilly
+705,FMCG,Brand Management; Supply Chain; Consumer Behaviour; Marketing; Product Management; Sales,Diploma Business Management,Rajkot
+706,Finance/Banking,Data Analysis; Excel; Investment Banking; Financial Analysis,CA,Raipur
+707,Education,Teaching; Educational Research; Public Speaking; Assessment Design; Classroom Management; Curriculum Development,B.Ed,Meerut
+708,Defence,Navigation Systems; Weapon Systems; Military Tactics; Aerospace Engineering; Strategic Planning,B.Tech Electronics,Ahmedabad
+709,Finance/Banking,Investment Banking; Risk Management; Financial Analysis; Excel; Data Analysis; Accounting,CA,Srinagar
+710,Design,Illustration; Adobe Photoshop; AutoCAD; UI/UX; 3D Modeling; Graphic Design,B.Des,Kanpur
+711,Defence,Aerospace Engineering; Cybersecurity; Navigation Systems; Weapon Systems; Military Tactics; Strategic Planning,B.Tech Mechanical,Agra
+712,Healthcare,Clinical Research; Surgery Assistance; Phlebotomy; Patient Care; Nursing,MD,Mumbai
+713,Agriculture,Crop Management; Irrigation Systems; Soil Science,M.Sc Agriculture,Mysore
+714,Design,Adobe Photoshop; AutoCAD; UI/UX,B.Des,Ahmedabad
+715,Pharamaceutical,Medical Research; Regulatory Affairs; Drug Development,M.Pharm,Aurangabad
+716,Healthcare,Public Health; Phlebotomy; Nursing; Clinical Research; Patient Care; Surgery Assistance,MD,Delhi
+717,Education,Classroom Management; Assessment Design; Teaching,M.Ed,Navi Mumbai
+718,FMCG,Marketing; Sales; Consumer Behaviour,Diploma Business Management,Visakhapatnam
+719,Research,Machine Learning; Statistics; Laboratory Techniques; Data Analysis; Scientific Writing; Experimentation,M.Tech,Mumbai
+720,Finance/Banking,Auditing; Accounting; Data Analysis,MBA Finance,Pune
+721,FMCG,Supply Chain; Product Management; Sales,Diploma Business Management,Kalyan
+722,IT/Software,Cybersecurity; Python; Data Analysis; C++; Cloud Computing,B.Tech Computer Science,Amritsar
+723,Gems & Jewellery,Quality Control; CAD Design; Retail Management; Jewellery Design; Gemology; Merchandising,B.Des Jewellery,Visakhapatnam
+724,Design,UI/UX; AutoCAD; Illustration; 3D Modeling,B.Des,Varanasi
+725,Education,Educational Research; Classroom Management; Curriculum Development; Public Speaking; Assessment Design; Teaching,M.Ed,Hubli
+726,Education,Educational Research; Public Speaking; Assessment Design; Curriculum Development; Teaching,PhD Education,Patna
+727,Education,Assessment Design; Classroom Management; Curriculum Development; Public Speaking; Educational Research; Teaching,PhD Education,Meerut
+728,Gems & Jewellery,Quality Control; Gemology; Retail Management; Jewellery Design; CAD Design,Certificate in Gemology,Jodhpur
+729,IT/Software,Cybersecurity; C++; Web Development; Java; Cloud Computing,B.Tech Information Technology,Thane
+730,Gems & Jewellery,Retail Management; Jewellery Design; CAD Design; Gemology; Quality Control; Merchandising,Certificate in Gemology,Rajkot
+731,Chemical Industries,Chemical Engineering; Process Design; Safety Management; Material Science; Industrial Chemistry; Quality Control,M.Sc Chemistry,Mysore
+732,IT/Software,C++; Cloud Computing; SQL,MCA,Gwalior
+733,Defence,Navigation Systems; Cybersecurity; Military Tactics; Strategic Planning; Weapon Systems,B.Tech Mechanical,Kalyan
+734,Pharamaceutical,Quality Control; Regulatory Affairs; Drug Development,PhD Pharmacy,Jabalpur
+735,Travel & Logistics,Supply Chain; Warehouse Management; Customer Service; Transportation Planning; Inventory Management,BBA,Srinagar
+736,Research,Data Analysis; Laboratory Techniques; Experimentation; Statistics; Machine Learning,PhD,Howrah
+737,Research,Statistics; Laboratory Techniques; Machine Learning; Experimentation,PhD,Ludhiana
+738,Design,AutoCAD; Adobe Photoshop; Graphic Design; 3D Modeling,M.Des,Bangalore
+739,Education,Classroom Management; Curriculum Development; Public Speaking; Assessment Design; Teaching; Educational Research,M.Ed,Visakhapatnam
+740,Pharamaceutical,Clinical Trials; Medical Research; Quality Control,PhD Pharmacy,Delhi
+741,Design,3D Modeling; Graphic Design; UI/UX; Adobe Photoshop; AutoCAD; Illustration,B.Des,Thane
+742,Agriculture,Irrigation Systems; Agribusiness; Farm Mechanization; Crop Management; Fertilizer Application,B.Sc Agriculture,Faridabad
+743,Agriculture,Farm Mechanization; Soil Science; Crop Management; Fertilizer Application,M.Sc Agriculture,Gwalior
+744,Travel & Logistics,Inventory Management; Operations Management; Warehouse Management; Customer Service; Transportation Planning,BBA,Nagpur
+745,Research,Laboratory Techniques; Data Analysis; Machine Learning,M.Sc Research Methodology,Rajkot
+746,IT/Software,Machine Learning; Java; Cloud Computing; Data Analysis,B.Tech Computer Science,Ahmedabad
+747,Education,Educational Research; Curriculum Development; Assessment Design,PhD Education,Bhopal
+748,IT/Software,C++; Cybersecurity; Web Development; Cloud Computing; Machine Learning; Data Analysis,B.Tech Computer Science,Srinagar
+749,Education,Curriculum Development; Public Speaking; Teaching; Educational Research; Classroom Management,B.Ed,Ranchi
+750,Design,Adobe Photoshop; UI/UX; Illustration; 3D Modeling,Diploma in Design,Kolkata
+751,Finance/Banking,Auditing; Risk Management; Investment Banking; Accounting; Financial Analysis; Data Analysis,B.Com,Madurai
+752,Gems & Jewellery,CAD Design; Gemology; Jewellery Design; Retail Management,B.Des Jewellery,Delhi
+753,Agriculture,Farm Mechanization; Fertilizer Application; Soil Science,M.Sc Agriculture,Kota
+754,Research,Data Analysis; Experimentation; Scientific Writing; Laboratory Techniques; Statistics,M.Sc Research Methodology,Chennai
+755,Design,3D Modeling; Graphic Design; Adobe Photoshop; Illustration; AutoCAD,B.Des,Nashik
+756,Finance/Banking,Investment Banking; Financial Analysis; Risk Management,MBA Finance,Guwahati
+757,Gems & Jewellery,Gemology; Jewellery Design; Quality Control; Retail Management,Diploma Jewellery Design,Madurai
+758,Design,Adobe Photoshop; 3D Modeling; UI/UX,Diploma in Design,Mysore
+759,Research,Laboratory Techniques; Statistics; Experimentation; Data Analysis,PhD,Agra
+760,Pharamaceutical,Regulatory Affairs; Quality Control; Clinical Trials; Medical Research; Pharmacology,B.Pharm,Kota
+761,Gems & Jewellery,Retail Management; Merchandising; Quality Control; Jewellery Design; CAD Design,Diploma Jewellery Design,Varanasi
+762,Housing/Infrastructure,Construction Management; Urban Planning; Structural Analysis,Diploma Civil,Aurangabad
+763,Gems & Jewellery,Gemology; Jewellery Design; CAD Design; Quality Control; Retail Management,B.Des Jewellery,Aligarh
+764,Healthcare,Public Health; Clinical Research; Surgery Assistance,Diploma in Medical Lab Technology,Pune
+765,Housing/Infrastructure,Project Management; AutoCAD; Civil Engineering; Construction Management; Urban Planning,M.Tech Structural Engineering,Rajkot
+766,Pharamaceutical,Drug Development; Clinical Trials; Quality Control; Medical Research,PhD Pharmacy,Kanpur
+767,Healthcare,Clinical Research; Nursing; Phlebotomy; Surgery Assistance; Public Health,B.Sc Nursing,Srinagar
+768,Finance/Banking,Data Analysis; Auditing; Excel; Risk Management; Investment Banking; Accounting,CA,Jaipur
+769,Chemical Industries,Industrial Chemistry; Chemical Engineering; Safety Management; Process Design; Material Science; Quality Control,B.Tech Chemical Engineering,Nagpur
+770,Agriculture,Farm Mechanization; Irrigation Systems; Fertilizer Application; Soil Science; Crop Management; Agribusiness,M.Sc Agriculture,Nagpur
+771,Travel & Logistics,Warehouse Management; Customer Service; Supply Chain; Operations Management; Transportation Planning,BBA,Howrah
+772,FMCG,Product Management; Brand Management; Marketing; Sales,MBA Marketing,Pune
+773,IT/Software,Cybersecurity; Machine Learning; C++; Cloud Computing; SQL,B.Tech Information Technology,Tiruchirappalli
+774,Travel & Logistics,Warehouse Management; Inventory Management; Operations Management,BBA,Ahmedabad
+775,Housing/Infrastructure,Project Management; Urban Planning; AutoCAD,B.Tech Civil,Hubli
+776,Travel & Logistics,Operations Management; Warehouse Management; Inventory Management; Supply Chain; Transportation Planning; Customer Service,Diploma Logistics,Allahabad
+777,Housing/Infrastructure,Civil Engineering; Structural Analysis; Urban Planning; Construction Management; AutoCAD,Diploma Civil,Hubli
+778,Design,Illustration; AutoCAD; 3D Modeling; Graphic Design,Diploma in Design,Faridabad
+779,Research,Laboratory Techniques; Statistics; Data Analysis; Scientific Writing; Experimentation; Machine Learning,PhD,Navi Mumbai
+780,Defence,Strategic Planning; Weapon Systems; Cybersecurity,B.Tech Electronics,Visakhapatnam
+781,Pharamaceutical,Regulatory Affairs; Medical Research; Quality Control; Clinical Trials; Pharmacology,B.Pharm,Mumbai
+782,Education,Public Speaking; Classroom Management; Teaching,B.Ed,Thane
+783,IT/Software,Data Analysis; Python; Machine Learning; SQL; Cybersecurity,B.Tech Information Technology,Vadodara
+784,Research,Laboratory Techniques; Scientific Writing; Data Analysis,M.Tech,Patna
+785,Gems & Jewellery,Jewellery Design; Merchandising; Gemology; Quality Control,Certificate in Gemology,Chennai
+786,Education,Curriculum Development; Public Speaking; Teaching; Assessment Design; Classroom Management; Educational Research,PhD Education,Thane
+787,Gems & Jewellery,CAD Design; Merchandising; Jewellery Design; Retail Management,B.Des Jewellery,Ludhiana
+788,Agriculture,Crop Management; Fertilizer Application; Irrigation Systems,B.Sc Agriculture,Kolkata
+789,FMCG,Product Management; Supply Chain; Marketing; Consumer Behaviour; Sales,MBA Marketing,Vijayawada
+790,FMCG,Consumer Behaviour; Supply Chain; Product Management; Marketing; Sales,BBA,Solapur
+791,IT/Software,Data Analysis; SQL; Java; C++; Web Development; Cybersecurity,B.Tech Information Technology,Kalyan
+792,Design,AutoCAD; Illustration; 3D Modeling; Graphic Design; UI/UX; Adobe Photoshop,Diploma in Design,Meerut
+793,Healthcare,Surgery Assistance; Public Health; Nursing; Patient Care; Phlebotomy,Diploma in Medical Lab Technology,Guwahati
+794,Healthcare,Surgery Assistance; Public Health; Clinical Research; Patient Care,B.Sc Nursing,Kanpur
+795,Chemical Industries,Material Science; Safety Management; Chemical Engineering; Quality Control; Process Design; Industrial Chemistry,M.Sc Chemistry,Ghaziabad
+796,Housing/Infrastructure,Construction Management; Civil Engineering; AutoCAD; Structural Analysis; Project Management; Urban Planning,Diploma Civil,Agra
+797,IT/Software,Machine Learning; Python; Data Analysis,B.Tech Information Technology,Allahabad
+798,Pharamaceutical,Pharmacology; Quality Control; Clinical Trials; Regulatory Affairs; Medical Research,PhD Pharmacy,Tiruchirappalli
+799,Design,Illustration; Adobe Photoshop; AutoCAD,Diploma in Design,Tiruchirappalli
+800,Pharamaceutical,Medical Research; Quality Control; Clinical Trials; Regulatory Affairs,M.Pharm,Raipur
+801,Travel & Logistics,Customer Service; Warehouse Management; Transportation Planning; Inventory Management; Supply Chain; Operations Management,MBA Operations,Hyderabad
+802,Finance/Banking,Investment Banking; Auditing; Data Analysis,CA,Aligarh
+803,Finance/Banking,Investment Banking; Auditing; Accounting,MBA Finance,Meerut
+804,Chemical Industries,Process Design; Industrial Chemistry; Material Science; Chemical Engineering; Safety Management; Quality Control,M.Sc Chemistry,Solapur
+805,Housing/Infrastructure,Construction Management; Civil Engineering; AutoCAD; Structural Analysis; Project Management; Urban Planning,B.Tech Civil,Kalyan
+806,FMCG,Brand Management; Consumer Behaviour; Sales,Diploma Business Management,Madurai
+807,Housing/Infrastructure,Civil Engineering; Construction Management; Urban Planning; AutoCAD; Project Management,B.Tech Civil,Chandigarh
+808,Finance/Banking,Excel; Risk Management; Investment Banking; Auditing; Accounting,B.Com,Kalyan
+809,Travel & Logistics,Supply Chain; Inventory Management; Operations Management; Transportation Planning; Customer Service,MBA Operations,Vijayawada
+810,Research,Machine Learning; Data Analysis; Experimentation; Laboratory Techniques; Statistics,M.Tech,Mumbai
+811,Gems & Jewellery,Gemology; Retail Management; Jewellery Design; CAD Design; Merchandising,Diploma Jewellery Design,Patna
+812,Healthcare,Public Health; Nursing; Phlebotomy; Clinical Research; Surgery Assistance; Patient Care,MD,Lucknow
+813,Travel & Logistics,Transportation Planning; Supply Chain; Inventory Management,BBA,Kolkata
+814,Defence,Navigation Systems; Weapon Systems; Military Tactics; Cybersecurity; Strategic Planning,Defence Studies,Amritsar
+815,Finance/Banking,Risk Management; Financial Analysis; Investment Banking; Accounting,B.Com,Delhi
+816,Gems & Jewellery,Retail Management; CAD Design; Gemology,Diploma Jewellery Design,Nagpur
+817,Design,Illustration; UI/UX; Adobe Photoshop,B.Des,Lucknow
+818,Housing/Infrastructure,AutoCAD; Structural Analysis; Civil Engineering; Construction Management; Urban Planning; Project Management,B.Tech Civil,Chennai
+819,Pharamaceutical,Quality Control; Clinical Trials; Regulatory Affairs; Drug Development; Medical Research,M.Pharm,Kolkata
+820,FMCG,Brand Management; Supply Chain; Consumer Behaviour,BBA,Visakhapatnam
+821,Defence,Aerospace Engineering; Cybersecurity; Navigation Systems; Weapon Systems; Strategic Planning; Military Tactics,Defence Studies,Bareilly
+822,Defence,Weapon Systems; Cybersecurity; Military Tactics,Defence Studies,Visakhapatnam
+823,Education,Teaching; Public Speaking; Assessment Design; Curriculum Development; Classroom Management; Educational Research,B.Ed,Mumbai
+824,Defence,Military Tactics; Aerospace Engineering; Navigation Systems; Strategic Planning,Defence Studies,Ghaziabad
+825,Research,Laboratory Techniques; Scientific Writing; Experimentation; Machine Learning; Statistics; Data Analysis,PhD,Kanpur
+826,Pharamaceutical,Quality Control; Medical Research; Pharmacology,PhD Pharmacy,Kolkata
+827,Research,Machine Learning; Scientific Writing; Experimentation; Data Analysis,M.Sc Research Methodology,Pune
+828,IT/Software,Cybersecurity; Data Analysis; Python; Web Development; C++; SQL,B.Tech Information Technology,Indore
+829,Travel & Logistics,Customer Service; Inventory Management; Transportation Planning; Operations Management,Diploma Logistics,Jaipur
+830,Agriculture,Fertilizer Application; Farm Mechanization; Agribusiness; Irrigation Systems,M.Sc Agriculture,Jodhpur
+831,Travel & Logistics,Inventory Management; Supply Chain; Operations Management; Customer Service; Transportation Planning,BBA,Kolkata
+832,Pharamaceutical,Quality Control; Clinical Trials; Pharmacology; Medical Research,M.Pharm,Delhi
+833,Gems & Jewellery,Gemology; Jewellery Design; Retail Management; CAD Design,Certificate in Gemology,Mysore
+834,Pharamaceutical,Medical Research; Clinical Trials; Drug Development; Pharmacology; Quality Control,PhD Pharmacy,Navi Mumbai
+835,Education,Educational Research; Classroom Management; Curriculum Development; Public Speaking; Teaching,PhD Education,Agra
+836,Chemical Industries,Industrial Chemistry; Chemical Engineering; Quality Control; Safety Management; Material Science; Process Design,B.Tech Chemical Engineering,Allahabad
+837,Gems & Jewellery,Jewellery Design; Quality Control; Retail Management; CAD Design; Merchandising,B.Des Jewellery,Guwahati
+838,Research,Laboratory Techniques; Statistics; Machine Learning; Experimentation; Data Analysis,M.Tech,Ghaziabad
+839,Chemical Industries,Chemical Engineering; Industrial Chemistry; Material Science; Quality Control,M.Sc Chemistry,Chandigarh
+840,Travel & Logistics,Supply Chain; Operations Management; Customer Service; Warehouse Management; Inventory Management; Transportation Planning,MBA Operations,Vadodara
+841,Housing/Infrastructure,Project Management; AutoCAD; Structural Analysis; Urban Planning,M.Tech Structural Engineering,Vadodara
+842,Defence,Cybersecurity; Navigation Systems; Weapon Systems; Strategic Planning,B.Tech Electronics,Navi Mumbai
+843,Research,Scientific Writing; Data Analysis; Experimentation; Laboratory Techniques; Machine Learning,M.Sc Research Methodology,Chandigarh
+844,Defence,Strategic Planning; Cybersecurity; Military Tactics; Navigation Systems; Aerospace Engineering; Weapon Systems,B.Tech Electronics,Visakhapatnam
+845,Design,AutoCAD; Graphic Design; Adobe Photoshop; Illustration; UI/UX,B.Des,Howrah
+846,Healthcare,Surgery Assistance; Nursing; Clinical Research; Public Health; Phlebotomy,B.Sc Nursing,Mysore
+847,Defence,Navigation Systems; Military Tactics; Cybersecurity; Weapon Systems; Strategic Planning,B.Tech Mechanical,Aurangabad
+848,Housing/Infrastructure,AutoCAD; Urban Planning; Structural Analysis; Construction Management; Civil Engineering,M.Tech Structural Engineering,Mumbai
+849,Chemical Industries,Quality Control; Chemical Engineering; Material Science; Process Design; Safety Management; Industrial Chemistry,B.Tech Chemical Engineering,Solapur
+850,Finance/Banking,Auditing; Data Analysis; Accounting; Financial Analysis; Excel,CA,Bangalore
+851,Travel & Logistics,Customer Service; Supply Chain; Transportation Planning; Warehouse Management; Inventory Management; Operations Management,Diploma Logistics,Vadodara
+852,Pharamaceutical,Medical Research; Clinical Trials; Quality Control; Pharmacology; Drug Development; Regulatory Affairs,B.Pharm,Kalyan
+853,Research,Machine Learning; Experimentation; Laboratory Techniques; Scientific Writing,PhD,Indore
+854,Finance/Banking,Investment Banking; Financial Analysis; Data Analysis; Accounting,B.Com,Kolkata
+855,FMCG,Supply Chain; Sales; Marketing; Consumer Behaviour; Product Management,BBA,Chennai
+856,Healthcare,Public Health; Phlebotomy; Patient Care; Clinical Research; Nursing; Surgery Assistance,Diploma in Medical Lab Technology,Navi Mumbai
+857,Pharamaceutical,Regulatory Affairs; Quality Control; Medical Research; Pharmacology,PhD Pharmacy,Allahabad
+858,Travel & Logistics,Warehouse Management; Transportation Planning; Customer Service; Operations Management,Diploma Logistics,Chennai
+859,Design,Illustration; Graphic Design; AutoCAD; UI/UX; 3D Modeling; Adobe Photoshop,B.Des,Aligarh
+860,Finance/Banking,Financial Analysis; Data Analysis; Auditing; Excel,CA,Chennai
+861,Healthcare,Patient Care; Clinical Research; Public Health; Surgery Assistance; Phlebotomy,Diploma in Medical Lab Technology,Nashik
+862,Finance/Banking,Accounting; Risk Management; Data Analysis; Financial Analysis,B.Com,Chennai
+863,Travel & Logistics,Operations Management; Warehouse Management; Inventory Management,BBA,Kolkata
+864,Research,Experimentation; Scientific Writing; Laboratory Techniques,M.Tech,Srinagar
+865,IT/Software,Cybersecurity; Machine Learning; Cloud Computing; Python,MCA,Solapur
+866,Research,Scientific Writing; Experimentation; Machine Learning,M.Tech,Ranchi
+867,Pharamaceutical,Clinical Trials; Quality Control; Medical Research,PhD Pharmacy,Chandigarh
+868,FMCG,Supply Chain; Sales; Marketing; Brand Management; Product Management,MBA Marketing,Srinagar
+869,Pharamaceutical,Regulatory Affairs; Drug Development; Clinical Trials; Medical Research; Quality Control; Pharmacology,M.Pharm,Jodhpur
+870,Finance/Banking,Auditing; Risk Management; Financial Analysis,B.Com,Indore
+871,Education,Assessment Design; Educational Research; Public Speaking; Curriculum Development; Teaching; Classroom Management,M.Ed,Pune
+872,Research,Scientific Writing; Statistics; Data Analysis; Laboratory Techniques; Experimentation; Machine Learning,M.Tech,Ranchi
+873,Research,Laboratory Techniques; Data Analysis; Experimentation; Machine Learning; Statistics; Scientific Writing,M.Tech,Mysore
+874,Travel & Logistics,Customer Service; Warehouse Management; Inventory Management,Diploma Logistics,Aurangabad
+875,Healthcare,Nursing; Patient Care; Public Health; Clinical Research; Phlebotomy; Surgery Assistance,B.Sc Nursing,Bareilly
+876,Pharamaceutical,Regulatory Affairs; Clinical Trials; Quality Control; Drug Development,M.Pharm,Solapur
+877,Education,Assessment Design; Classroom Management; Educational Research; Teaching; Curriculum Development; Public Speaking,B.Ed,Meerut
+878,IT/Software,Web Development; Machine Learning; C++; Cloud Computing; Python; Cybersecurity,MCA,Guwahati
+879,Pharamaceutical,Quality Control; Pharmacology; Drug Development,PhD Pharmacy,Ranchi
+880,Research,Data Analysis; Laboratory Techniques; Machine Learning; Experimentation; Statistics; Scientific Writing,M.Tech,Amritsar
+881,Finance/Banking,Auditing; Financial Analysis; Accounting; Investment Banking,CA,Bangalore
+882,Research,Laboratory Techniques; Statistics; Experimentation; Scientific Writing; Data Analysis,M.Sc Research Methodology,Ahmedabad
+883,Finance/Banking,Investment Banking; Data Analysis; Auditing; Excel,MBA Finance,Patna
+884,Chemical Industries,Chemical Engineering; Material Science; Industrial Chemistry; Safety Management; Quality Control,B.Tech Chemical Engineering,Kanpur
+885,Chemical Industries,Process Design; Industrial Chemistry; Quality Control; Chemical Engineering; Safety Management,B.Tech Chemical Engineering,Aligarh
+886,FMCG,Brand Management; Sales; Supply Chain; Consumer Behaviour; Product Management; Marketing,BBA,Delhi
+887,Gems & Jewellery,Jewellery Design; Merchandising; Quality Control; CAD Design; Retail Management,Diploma Jewellery Design,Mysore
+888,Finance/Banking,Auditing; Investment Banking; Accounting,MBA Finance,Chennai
+889,Design,UI/UX; Graphic Design; Adobe Photoshop; Illustration,Diploma in Design,Chennai
+890,Healthcare,Surgery Assistance; Clinical Research; Phlebotomy,MD,Meerut
+891,Gems & Jewellery,Quality Control; Merchandising; Retail Management,B.Des Jewellery,Howrah
+892,Housing/Infrastructure,Construction Management; Urban Planning; Structural Analysis; Civil Engineering; AutoCAD; Project Management,M.Tech Structural Engineering,Varanasi
+893,Travel & Logistics,Customer Service; Operations Management; Inventory Management; Warehouse Management; Transportation Planning,Diploma Logistics,Chennai
+894,IT/Software,Web Development; Cybersecurity; Cloud Computing,MCA,Meerut
+895,Agriculture,Crop Management; Agribusiness; Farm Mechanization; Irrigation Systems; Soil Science,B.Sc Agriculture,Srinagar
+896,Pharamaceutical,Pharmacology; Drug Development; Medical Research; Regulatory Affairs,M.Pharm,Bangalore
+897,IT/Software,Web Development; Machine Learning; C++; Java; Python,MCA,Jodhpur
+898,Defence,Aerospace Engineering; Weapon Systems; Cybersecurity; Military Tactics; Navigation Systems; Strategic Planning,Defence Studies,Mumbai
+899,Research,Machine Learning; Laboratory Techniques; Data Analysis; Statistics; Scientific Writing; Experimentation,M.Sc Research Methodology,Kanpur
+900,Agriculture,Farm Mechanization; Irrigation Systems; Agribusiness,B.Sc Agriculture,Vadodara
+901,IT/Software,Data Analysis; Cybersecurity; Python; Machine Learning; Java; Web Development,B.Tech Information Technology,Mumbai
+902,Design,Adobe Photoshop; Graphic Design; 3D Modeling; AutoCAD; UI/UX,M.Des,Bangalore
+903,Education,Public Speaking; Assessment Design; Educational Research; Teaching,B.Ed,Patna
+904,FMCG,Supply Chain; Product Management; Consumer Behaviour; Brand Management; Marketing; Sales,MBA Marketing,Bhopal
+905,Housing/Infrastructure,Civil Engineering; Structural Analysis; AutoCAD; Project Management; Construction Management; Urban Planning,M.Tech Structural Engineering,Ranchi
+906,Design,UI/UX; Graphic Design; AutoCAD,B.Des,Kolkata
+907,Chemical Industries,Chemical Engineering; Material Science; Quality Control; Process Design; Industrial Chemistry; Safety Management,B.Tech Chemical Engineering,Jabalpur
+908,Research,Data Analysis; Experimentation; Scientific Writing; Statistics; Laboratory Techniques,M.Sc Research Methodology,Varanasi
+909,Education,Curriculum Development; Teaching; Educational Research; Classroom Management; Public Speaking,B.Ed,Thane
+910,FMCG,Product Management; Supply Chain; Marketing; Brand Management; Consumer Behaviour; Sales,BBA,Bangalore
+911,Finance/Banking,Auditing; Data Analysis; Accounting; Risk Management,MBA Finance,Chandigarh
+912,Education,Educational Research; Public Speaking; Assessment Design; Curriculum Development; Teaching,M.Ed,Rajkot
+913,Housing/Infrastructure,Project Management; AutoCAD; Urban Planning,Diploma Civil,Indore
+914,Pharamaceutical,Quality Control; Regulatory Affairs; Pharmacology; Medical Research; Clinical Trials,M.Pharm,Varanasi
+915,Pharamaceutical,Clinical Trials; Drug Development; Medical Research; Regulatory Affairs; Quality Control; Pharmacology,M.Pharm,Lucknow
+916,Defence,Cybersecurity; Navigation Systems; Strategic Planning; Military Tactics; Aerospace Engineering,Defence Studies,Visakhapatnam
+917,Chemical Industries,Safety Management; Material Science; Quality Control; Chemical Engineering,M.Sc Chemistry,Gwalior
+918,FMCG,Product Management; Sales; Brand Management; Marketing; Supply Chain; Consumer Behaviour,Diploma Business Management,Nagpur
+919,Chemical Industries,Quality Control; Material Science; Chemical Engineering; Safety Management; Process Design,B.Tech Chemical Engineering,Bhopal
+920,Travel & Logistics,Warehouse Management; Transportation Planning; Customer Service; Operations Management,MBA Operations,Visakhapatnam
+921,Research,Statistics; Scientific Writing; Data Analysis,M.Tech,Ahmedabad
+922,Research,Data Analysis; Statistics; Scientific Writing; Experimentation; Laboratory Techniques; Machine Learning,M.Sc Research Methodology,Faridabad
+923,Chemical Industries,Process Design; Quality Control; Safety Management; Material Science,B.Tech Chemical Engineering,Guwahati
+924,Education,Public Speaking; Educational Research; Classroom Management; Curriculum Development; Teaching,M.Ed,Varanasi
+925,Housing/Infrastructure,Urban Planning; Civil Engineering; AutoCAD; Structural Analysis; Project Management; Construction Management,Diploma Civil,Varanasi
+926,Healthcare,Nursing; Patient Care; Public Health; Phlebotomy,MBBS,Kota
+927,Defence,Strategic Planning; Military Tactics; Cybersecurity; Weapon Systems,B.Tech Mechanical,Jodhpur
+928,Pharamaceutical,Drug Development; Regulatory Affairs; Medical Research,B.Pharm,Ludhiana
+929,Finance/Banking,Data Analysis; Auditing; Financial Analysis,B.Com,Navi Mumbai
+930,Housing/Infrastructure,Civil Engineering; Project Management; Structural Analysis; AutoCAD; Construction Management; Urban Planning,M.Tech Structural Engineering,Solapur
+931,Healthcare,Surgery Assistance; Phlebotomy; Clinical Research; Patient Care; Public Health; Nursing,MD,Meerut
+932,Design,UI/UX; Graphic Design; Adobe Photoshop,B.Des,Lucknow
+933,Chemical Industries,Material Science; Industrial Chemistry; Quality Control,B.Tech Chemical Engineering,Solapur
+934,Gems & Jewellery,CAD Design; Retail Management; Gemology; Merchandising; Jewellery Design; Quality Control,B.Des Jewellery,Kota
+935,Finance/Banking,Data Analysis; Excel; Investment Banking; Risk Management,MBA Finance,Kalyan
+936,Education,Teaching; Curriculum Development; Assessment Design,B.Ed,Hubli
+937,Finance/Banking,Financial Analysis; Investment Banking; Risk Management; Accounting; Auditing,B.Com,Vijayawada
+938,Design,Illustration; Adobe Photoshop; UI/UX; Graphic Design,M.Des,Solapur
+939,FMCG,Product Management; Brand Management; Supply Chain,BBA,Bareilly
+940,Agriculture,Agribusiness; Crop Management; Irrigation Systems; Farm Mechanization; Fertilizer Application,B.Sc Agriculture,Guwahati
+941,IT/Software,SQL; Machine Learning; Cybersecurity; Java; C++,B.Tech Information Technology,Meerut
+942,Gems & Jewellery,CAD Design; Jewellery Design; Quality Control,B.Des Jewellery,Navi Mumbai
+943,Education,Teaching; Public Speaking; Educational Research; Assessment Design,B.Ed,Pune
+944,IT/Software,Cybersecurity; Web Development; Machine Learning; Python; C++; Cloud Computing,MCA,Agra
+945,Pharamaceutical,Drug Development; Regulatory Affairs; Medical Research; Clinical Trials; Pharmacology; Quality Control,PhD Pharmacy,Raipur
+946,Education,Educational Research; Assessment Design; Public Speaking; Teaching; Classroom Management,B.Ed,Madurai
+947,Healthcare,Nursing; Patient Care; Surgery Assistance,MBBS,Faridabad
+948,Design,Graphic Design; Illustration; AutoCAD,Diploma in Design,Lucknow
+949,Finance/Banking,Risk Management; Auditing; Data Analysis,CA,Vijayawada
+950,Education,Teaching; Assessment Design; Public Speaking; Educational Research; Curriculum Development; Classroom Management,M.Ed,Varanasi
+951,Chemical Industries,Industrial Chemistry; Material Science; Quality Control; Process Design; Safety Management,M.Sc Chemistry,Kota
+952,Travel & Logistics,Transportation Planning; Operations Management; Warehouse Management; Supply Chain; Inventory Management,BBA,Thane
+953,Defence,Strategic Planning; Aerospace Engineering; Cybersecurity; Weapon Systems; Navigation Systems; Military Tactics,B.Tech Electronics,Dhanbad
+954,Travel & Logistics,Transportation Planning; Supply Chain; Warehouse Management; Operations Management; Inventory Management,MBA Operations,Meerut
+955,Gems & Jewellery,Merchandising; Gemology; Retail Management; Quality Control; CAD Design; Jewellery Design,Certificate in Gemology,Howrah
+956,Defence,Military Tactics; Weapon Systems; Navigation Systems; Cybersecurity,Defence Studies,Aurangabad
+957,Defence,Weapon Systems; Navigation Systems; Military Tactics; Cybersecurity; Strategic Planning; Aerospace Engineering,B.Tech Mechanical,Amritsar
+958,FMCG,Supply Chain; Sales; Consumer Behaviour,MBA Marketing,Rajkot
+959,Travel & Logistics,Supply Chain; Customer Service; Operations Management; Transportation Planning,Diploma Logistics,Faridabad
+960,Defence,Strategic Planning; Cybersecurity; Navigation Systems; Weapon Systems,B.Tech Electronics,Dhanbad
+961,Travel & Logistics,Warehouse Management; Inventory Management; Operations Management; Supply Chain,Diploma Logistics,Ludhiana
+962,Agriculture,Fertilizer Application; Irrigation Systems; Soil Science; Crop Management,Diploma Agriculture,Nagpur
+963,Defence,Strategic Planning; Cybersecurity; Military Tactics; Navigation Systems; Weapon Systems,B.Tech Mechanical,Visakhapatnam
+964,Healthcare,Nursing; Clinical Research; Phlebotomy; Public Health; Patient Care; Surgery Assistance,B.Sc Nursing,Tiruchirappalli
+965,Gems & Jewellery,Jewellery Design; Gemology; Merchandising,B.Des Jewellery,Kolkata
+966,Travel & Logistics,Customer Service; Transportation Planning; Warehouse Management,MBA Operations,Hyderabad
+967,Defence,Aerospace Engineering; Navigation Systems; Military Tactics,B.Tech Electronics,Aligarh
+968,Defence,Military Tactics; Aerospace Engineering; Strategic Planning; Weapon Systems; Navigation Systems,Defence Studies,Jodhpur
+969,Education,Educational Research; Teaching; Classroom Management; Curriculum Development; Public Speaking,B.Ed,Rajkot
+970,Research,Experimentation; Data Analysis; Laboratory Techniques,M.Sc Research Methodology,Patna
+971,Education,Educational Research; Teaching; Curriculum Development; Classroom Management,M.Ed,Madurai
+972,Housing/Infrastructure,Project Management; Structural Analysis; Civil Engineering,B.Tech Civil,Varanasi
+973,Agriculture,Crop Management; Soil Science; Agribusiness; Irrigation Systems,M.Sc Agriculture,Meerut
+974,Chemical Industries,Industrial Chemistry; Safety Management; Material Science; Chemical Engineering; Quality Control; Process Design,B.Tech Chemical Engineering,Pune
+975,Gems & Jewellery,CAD Design; Merchandising; Gemology; Jewellery Design; Quality Control; Retail Management,Certificate in Gemology,Jodhpur
+976,Pharamaceutical,Drug Development; Quality Control; Regulatory Affairs; Medical Research; Pharmacology,M.Pharm,Rajkot
+977,Design,Adobe Photoshop; 3D Modeling; Illustration; UI/UX; Graphic Design,M.Des,Howrah
+978,Housing/Infrastructure,Urban Planning; Construction Management; Project Management; AutoCAD,Diploma Civil,Lucknow
+979,Finance/Banking,Data Analysis; Accounting; Investment Banking,B.Com,Allahabad
+980,Pharamaceutical,Medical Research; Quality Control; Clinical Trials; Drug Development; Regulatory Affairs,PhD Pharmacy,Pune
+981,Healthcare,Clinical Research; Public Health; Nursing; Patient Care; Surgery Assistance,Diploma in Medical Lab Technology,Nashik
+982,Agriculture,Farm Mechanization; Soil Science; Irrigation Systems; Fertilizer Application; Agribusiness; Crop Management,B.Sc Agriculture,Vadodara
+983,Design,Illustration; 3D Modeling; Graphic Design; AutoCAD; Adobe Photoshop,Diploma in Design,Bhopal
+984,FMCG,Sales; Consumer Behaviour; Supply Chain; Marketing; Brand Management; Product Management,MBA Marketing,Agra
+985,Defence,Military Tactics; Strategic Planning; Aerospace Engineering; Cybersecurity,B.Tech Electronics,Meerut
+986,Finance/Banking,Investment Banking; Auditing; Financial Analysis; Data Analysis,B.Com,Aligarh
+987,IT/Software,Data Analysis; Machine Learning; Web Development; Python,MCA,Guwahati
+988,Healthcare,Phlebotomy; Patient Care; Surgery Assistance; Clinical Research,Diploma in Medical Lab Technology,Meerut
+989,Chemical Industries,Process Design; Quality Control; Material Science,B.Tech Chemical Engineering,Agra
+990,Design,Adobe Photoshop; Illustration; UI/UX; Graphic Design; AutoCAD; 3D Modeling,Diploma in Design,Aligarh
+991,Chemical Industries,Quality Control; Material Science; Industrial Chemistry; Process Design; Safety Management; Chemical Engineering,M.Sc Chemistry,Bareilly
+992,Agriculture,Crop Management; Fertilizer Application; Irrigation Systems; Agribusiness,M.Sc Agriculture,Lucknow
+993,Pharamaceutical,Quality Control; Regulatory Affairs; Drug Development; Pharmacology,PhD Pharmacy,Navi Mumbai
+994,Research,Data Analysis; Laboratory Techniques; Statistics,M.Sc Research Methodology,Mysore
+995,Finance/Banking,Financial Analysis; Investment Banking; Risk Management; Auditing,MBA Finance,Allahabad
+996,Healthcare,Surgery Assistance; Public Health; Phlebotomy,MD,Ludhiana
+997,Housing/Infrastructure,Project Management; Urban Planning; Structural Analysis,Diploma Civil,Raipur
+998,Defence,Navigation Systems; Military Tactics; Weapon Systems; Strategic Planning,B.Tech Electronics,Bhopal
+999,Pharamaceutical,Drug Development; Medical Research; Quality Control; Pharmacology; Regulatory Affairs; Clinical Trials,B.Pharm,Aligarh
+1000,Finance/Banking,Financial Analysis; Risk Management; Auditing; Accounting; Data Analysis,B.Com,Nashik

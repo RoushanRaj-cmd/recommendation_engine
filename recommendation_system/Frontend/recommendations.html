@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Your Personalized Recommendations - SkillBridge</title>
+    <meta
+        name="description"
+        content="Discover personalized internship recommendations tailored to your skills, interests and career goals."
+        />
+        <link rel="icon" href="/favicon.ico" />
+        <link rel="stylesheet" href="styles.css" />
+        <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+        />
+    </head>
+    <body>
+        <!-- Header -->
+        <header class="header">
+        <div class="container">
+            <div class="nav-brand">
+            <a href="index.html" class="nav-brand">
+                <h2 class="brand-title">SkillBridge</h2>
+            </a>
+            </div>
+            <nav class="nav-menu" id="navMenu">
+            <a href="about.html" class="nav-link">About</a>
+            <a href="internships.html" class="nav-link">Internships</a>
+            <a href="contact.html" class="nav-link">Contact</a>
+            </nav>
+            <div class="nav-actions">
+            <select id="languageSelect" class="language-select">
+                <option value="en">English</option>
+                <option value="hi">हिंदी</option>
+            </select>
+            <a href="userlogin.html" class="btn-outline" data-translate="signIn">Sign In</a>
+            <a href="userlogin.html" class="btn-primary" data-translate="signUp">Sign Up</a>
+            </div>
+            <button class="mobile-menu-toggle" id="mobileMenuToggle">
+            <span></span>
+            <span></span>
+            <span></span>
+            </button>
+        </div>
+        </header>
+
+        <!-- Mobile Navigation Sidebar -->
+        <div class="mobile-nav-sidebar" id="mobileNavSidebar">
+        <div class="mobile-nav-header">
+            <div class="nav-brand">
+            <a href="index.html" class="nav-brand">
+                <h2 class="brand-title">SkillBridge</h2>
+            </a>
+            </div>
+            <button class="mobile-menu-close" id="mobileMenuClose">×</button>
+        </div>
+        <select id="languageSelectMobile" class="language-select">
+            <option value="en">English</option>
+            <option value="hi">हिंदी</option>
+        </select>
+        <nav class="nav-menu" id="navMenuMobile">
+            <a href="about.html" class="nav-link">About</a>
+            <a href="internships.html" class="nav-link">Internships</a>
+            <a href="contact.html" class="nav-link">Contact</a>
+        </nav>
+        <div class="nav-actions" id="navActionsMobile">
+            <a href="profile.html" class="btn-outline" data-translate="signIn"
+            >Sign In</a
+            >
+            <a href="profile.html" class="btn-primary" data-translate="signUp"
+            >Sign Up</a
+            >
+        </div>
+        </div>
+
+        <!-- Recommendations Main -->
+        <main class="recommendations-main">
+        <div class="container">
+            <div class="recommendations-header">
+            <h1
+                class="recommendations-title"
+                data-translate="recommendationsTitle">
+                Your Personalized Recommendations
+            </h1>
+            <p class="recommendations-subtitle">
+                Based on your profile, we've found these perfect matches for you
+            </p>
+            </div>
+
+            <div class="recommendations-grid">
+            <!-- Recommendations will be populated by JavaScript -->
+            </div>
+
+            <div class="recommendations-actions">
+            <a href="profile.html" class="btn-outline">Update Profile</a>
+            <a href="internships.html" class="btn-primary">Browse All Internships</a>
+            </div>
+
+            <!-- Profile Summary -->
+            <div class="profile-summary">
+            <h2 class="summary-title">Your Profile Summary</h2>
+            <div class="summary-content" id="profileSummary">
+                <!-- Profile summary will be populated by JavaScript -->
+            </div>
+            </div>
+        </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+            <div class="footer-section">
+                <h3 class="footer-title">SkillBridge</h3>
+                <p class="footer-text">
+                Bridging the gap between student aspirations and real
+                opportunities.
+                </p>
+                <div class="social-links">
+                <a href="#" class="social-link">&#xf08c;</a>
+                <!-- LinkedIn icon -->
+                <a href="#" class="social-link">&#xf099;</a>
+                <!-- Twitter icon -->
+                <a href="#" class="social-link">&#xf16d;</a>
+                <!-- Instagram icon -->
+                </div>
+            </div>
+            <div class="footer-section">
+                <h4 class="footer-heading">Quick Links</h4>
+                <div class="footer-links">
+                <a href="index.html" class="footer-link">Home</a>
+                <a href="about.html" class="footer-link">About</a>
+                <a href="internships.html" class="footer-link">Internships</a>
+                <a href="contact.html" class="footer-link">Contact</a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h4 class="footer-heading">Categories</h4>
+                <div class="footer-links">
+                <a href="#" class="footer-link">Web Development</a>
+                <a href="#" class="footer-link">Data Entry</a>
+                <a href="#" class="footer-link">Marketing</a>
+                <a href="#" class="footer-link">Design</a>
+                <a href="#" class="footer-link">Content Writing</a>
+                </div>
+            </div>
+            <div class="footer-section">
+                <h4 class="footer-heading">Contact Info</h4>
+                <div class="footer-links">
+                <span class="footer-contact">hello@opportunityconnect.in</span>
+                <span class="footer-contact">+91 12345 67890</span>
+                <span class="footer-contact">Mumbai, India</span>
+                </div>
+            </div>
+            </div>
+            <div class="footer-bottom">
+            <p>&copy; 2025 SkillBridge. All rights reserved.</p>
+            </div>
+        </div>
+        </footer>
+
+        <script src="languages.js"></script>
+        <script src="script.js"></script>
+    </body>
+</html>

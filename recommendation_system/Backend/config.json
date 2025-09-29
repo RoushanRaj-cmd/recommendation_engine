@@ -1,0 +1,15 @@
+{
+    "weights": {
+        "skills_similarity": 0.5,
+        "soft_skill_boost": 0.1,
+        "sector_boost": 0.2,
+        "education_boost": 0.1,
+        "location_boost": 0.3
+    },
+    "soft_skills": {
+        "communication": ["communication", "public speaking", "presentation"],
+        "teamwork": ["teamwork", "collaboration", "collaborative"],
+        "management": ["management", "leadership", "organization"],
+        "office_tools": ["microsoft office", "ms office", "google suite"]
+    }
+}

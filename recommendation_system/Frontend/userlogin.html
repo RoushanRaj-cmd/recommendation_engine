@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phone Authentication - India</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Sign In Page -->
+        <div id="signInPage" class="page active">
+            <div class="logo">
+                <div class="logo-icon">📱</div>
+            </div>
+            <h2>Welcome Back</h2>
+            <p class="subtitle">Sign in to your account</p>
+
+            <div class="success-message" id="signInSuccess">
+                Successfully signed in!
+            </div>
+            <div class="error-message" id="signInError">
+                Invalid phone number or OTP
+            </div>
+
+            <form id="signInForm">
+                <div class="form-group" id="phoneSection">
+                    <label for="signInPhone">Phone Number</label>
+                    <div class="input-wrapper">
+                        <span class="icon">📞</span>
+                        <span class="country-code">+91</span>
+                        <input type="tel" id="signInPhone" class="with-code" required>
+                    </div>
+                </div>
+
+                <div class="otp-container" id="signInOtpSection">
+                    <label>Enter OTP</label>
+                    <div class="otp-inputs">
+                        <input type="text" class="otp-input" maxlength="1" data-index="0">
+                        <input type="text" class="otp-input" maxlength="1" data-index="1">
+                        <input type="text" class="otp-input" maxlength="1" data-index="2">
+                        <input type="text" class="otp-input" maxlength="1" data-index="3">
+                        <input type="text" class="otp-input" maxlength="1" data-index="4">
+                        <input type="text" class="otp-input" maxlength="1" data-index="5">
+                    </div>
+                    <div class="timer">Resend OTP in <span id="signInTimer">30</span> seconds</div>
+                </div>
+
+                <button type="submit" class="btn" id="signInBtn">Send OTP</button>
+            </form>
+
+            <div class="divider">
+                <span>New to our platform?</span>
+            </div>
+
+            <button class="btn btn-secondary" onclick="showSignUp()"><a href="profile.html" style="text-decoration: none;">Create New Account</a></button>
+
+            <p class="link-text">
+                Need help? <a href="#">Contact Support</a>
+            </p>
+        </div>
+    </div>
+
+    <script src="loginuser.js"></script>
+</body>
+</html>

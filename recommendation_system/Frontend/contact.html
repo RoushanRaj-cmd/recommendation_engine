@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - SkillBridge</title>
+    <meta name="description" content="Get in touch with SkillBridge. We're here to help you with your internship search and career questions.">
+    <link rel="icon" href="/favicon.ico">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="nav-brand">
+                <a href="index.html" class="nav-brand">
+    <h2 class="brand-title">SkillBridge</h2>
+</a>
+            </div>
+            <nav class="nav-menu" id="navMenu">
+                
+                <a href="about.html" class="nav-link">About</a>
+                <a href="internships.html" class="nav-link">Internships</a>
+                <a href="contact.html" class="nav-link active">Contact</a>
+            </nav>
+            <div class="nav-actions">
+                <select id="languageSelect" class="language-select">
+                    <option value="en">English</option>
+                    <option value="hi">हिंदी</option>
+                </select>
+            </div>
+            <button class="mobile-menu-toggle" id="mobileMenuToggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Mobile Navigation Sidebar -->
+    <div class="mobile-nav-sidebar" id="mobileNavSidebar">
+        <div class="mobile-nav-header">
+            <div class="nav-brand">
+                <a href="index.html" class="nav-brand">
+    <h2 class="brand-title">SkillBridge</h2>
+</a>
+            </div>
+            <button class="mobile-menu-close" id="mobileMenuClose">×</button>
+        </div>
+        <select id="languageSelectMobile" class="language-select">
+            <option value="en">English</option>
+            <option value="hi">हिंदी</option>
+            
+        </select>
+        <nav class="nav-menu" id="navMenuMobile">
+            
+            <a href="about.html" class="nav-link">About</a>
+            <a href="internships.html" class="nav-link">Internships</a>
+            <a href="contact.html" class="nav-link active">Contact</a>
+        </nav>
+        <div class="nav-actions" id="navActionsMobile">
+            <a href="userlogin.html" class="btn-outline" data-translate="signIn">Sign In</a>
+            <a href="userlogin.html" class="btn-primary" data-translate="signUp">Sign Up</a>
+        </div>
+    </div>
+
+    <!-- Contact Main -->
+    <main class="contact-main">
+        <div class="container">
+            <!-- Header -->
+            <section class="contact-header">
+                <h1 class="contact-title" data-translate="contactTitle">Contact Us</h1>
+                <p class="contact-subtitle" data-translate="contactSubtitle">We'd love to hear from you</p>
+            </section>
+
+            <div class="contact-content">
+                <div class="contact-grid">
+                    <!-- Contact Form -->
+                    <div class="contact-form-section">
+                        <div class="contact-card">
+                            <div class="card-header">
+                                <h2 class="card-title">Send us a Message</h2>
+                                <p class="card-subtitle">Fill out the form below and we'll get back to you as soon as possible.</p>
+                            </div>
+                            <form id="contactForm" class="contact-form">
+                                <div class="form-row">
+                                    <div class="form-group">
+                                        <label for="name" class="form-label" data-translate="name">Name *</label>
+                                        <input type="text" id="name" name="name" class="form-input" placeholder="Your full name" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="email" class="form-label" data-translate="email">Email *</label>
+                                        <input type="email" id="email" name="email" class="form-input" placeholder="your.email@example.com" required>
+                                    </div>
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="subject" class="form-label">Subject</label>
+                                    <input type="text" id="subject" name="subject" class="form-input" placeholder="What is this regarding?">
+                                </div>
+                                
+                                <div class="form-group">
+                                    <label for="message" class="form-label" data-translate="message">Message *</label>
+                                    <textarea id="message" name="message" class="form-textarea" rows="5" placeholder="Tell us more about your inquiry..." required></textarea>
+                                </div>
+                                
+                                <button type="submit" class="btn-primary form-submit">
+                                    <span class="button-text" data-translate="send">Send Message</span>
+                                    <span class="button-icon">📧</span>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+
+                    <!-- Contact Information -->
+                    <div class="contact-info-section">
+                        <!-- Contact Details -->
+                        <div class="contact-info">
+                            <h2 class="info-title">Get in Touch</h2>
+                            <div class="contact-methods">
+                                <div class="contact-method">
+                                    <div class="method-icon">📧</div>
+                                    <div class="method-content">
+                                        <h3 class="method-title">Email Us</h3>
+                                        <p class="method-detail">hello@opportunityconnect.in</p>
+                                        <p class="method-description">Send us an email anytime</p>
+                                    </div>
+                                </div>
+                                <div class="contact-method">
+                                    <div class="method-icon">📞</div>
+                                    <div class="method-content">
+                                        <h3 class="method-title">Call Us</h3>
+                                        <p class="method-detail">+91 12345 67890</p>
+                                        <p class="method-description">Mon-Fri 9AM-6PM IST</p>
+                                    </div>
+                                </div>
+                                <div class="contact-method">
+                                    <div class="method-icon">📍</div>
+                                    <div class="method-content">
+                                        <h3 class="method-title">Visit Us</h3>
+                                        <p class="method-detail">Mumbai, Maharashtra</p>
+                                        <p class="method-description">India</p>
+                                    </div>
+                                </div>
+                                <div class="contact-method">
+                                    <div class="method-icon">🕒</div>
+                                    <div class="method-content">
+                                        <h3 class="method-title">Business Hours</h3>
+                                        <p class="method-detail">9:00 AM - 6:00 PM</p>
+                                        <p class="method-description">Monday to Friday</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- FAQ Section -->
+                        <div class="faq-section">
+                            <h2 class="faq-title">Frequently Asked Questions</h2>
+                            <div class="faq-list">
+                                <div class="faq-item">
+                                    <h3 class="faq-question">🎯 How do I create a profile?</h3>
+                                    <p class="faq-answer">Click on 'Get Started' from the homepage and follow our simple 3-step process to create your personalized profile.</p>
+                                </div>
+                                <div class="faq-item">
+                                    <h3 class="faq-question">✅ Are all internships verified?</h3>
+                                    <p class="faq-answer">Yes, we verify all companies and internship postings to ensure authenticity and quality opportunities for our students.</p>
+                                </div>
+                                <div class="faq-item">
+                                    <h3 class="faq-question">💸 Is the platform free to use?</h3>
+                                    <p class="faq-answer">Yes, SkillBridge is completely free for students. We believe in democratizing access to internship opportunities.</p>
+                                </div>
+                                <div class="faq-item">
+                                    <h3 class="faq-question">🤖 How are recommendations generated?</h3>
+                                    <p class="faq-answer">Our algorithm matches your skills, interests, location preferences, and career goals with relevant internship opportunities.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Support Section -->
+                <div class="support-section">
+                    <div class="support-card">
+                        <h3 class="support-title">Need Immediate Help?</h3>
+                        <p class="support-text">Our support team is here to help you with any questions about creating your profile, finding internships, or using our platform.</p>
+                        <div class="support-buttons">
+                            <button class="btn-outline support-btn" onclick="window.open('mailto:hello@opportunityconnect.in')">
+                                📧 Email Support
+                            </button>
+                            <button class="btn-outline support-btn" onclick="window.open('tel:+911234567890')">
+                                📞 Call Support
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 class="footer-title">SkillBridge</h3>
+                    <p class="footer-text">Bridging the gap between student aspirations and real opportunities.</p>
+                    <div class="social-links">
+                        <a href="#" class="social-link">&#xf08c;</a> <!-- LinkedIn icon -->
+                        <a href="#" class="social-link">&#xf099;</a> <!-- Twitter icon -->
+                        <a href="#" class="social-link">&#xf16d;</a> <!-- Instagram icon -->
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Quick Links</h4>
+                    <div class="footer-links">
+                        <a href="index.html" class="footer-link">Home</a>
+                        <a href="about.html" class="footer-link">About</a>
+                        <a href="internships.html" class="footer-link">Internships</a>
+                        <a href="contact.html" class="footer-link">Contact</a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Categories</h4>
+                    <div class="footer-links">
+                        <a href="#" class="footer-link">Web Development</a>
+                        <a href="#" class="footer-link">Data Entry</a>
+                        <a href="#" class="footer-link">Marketing</a>
+                        <a href="#" class="footer-link">Design</a>
+                        <a href="#" class="footer-link">Content Writing</a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Contact Info</h4>
+                    <div class="footer-links">
+                        <span class="footer-contact">hello@opportunityconnect.in</span>
+                        <span class="footer-contact">+91 12345 67890</span>
+                        <span class="footer-contact">Mumbai, India</span>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 SkillBridge. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="languages.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

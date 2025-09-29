@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Your Profile - SkillBridge</title>
+    <meta name="description" content="Create your personalized profile to get tailored internship recommendations that match your skills and preferences.">
+    <link rel="icon" href="/favicon.ico">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="nav-brand">
+                <a href="index.html" class="nav-brand">
+    <h2 class="brand-title">SkillBridge</h2>
+</a>
+            </div>
+            <nav class="nav-menu" id="navMenu">
+                
+                <a href="about.html" class="nav-link">About</a>
+                <a href="internships.html" class="nav-link">Internships</a>
+                <a href="contact.html" class="nav-link">Contact</a>
+            </nav>
+            <div class="nav-actions">
+                <select id="languageSelect" class="language-select">
+                    <option value="en">English</option>
+                    <option value="hi">हिंदी</option>
+                    
+                </select>
+                <a href="userlogin.html" class="btn-outline" data-translate="signIn">Sign In</a>
+                <a href="profile.html" class="btn-primary" data-translate="signUp">Sign Up</a>
+            </div>
+            <button class="mobile-menu-toggle" id="mobileMenuToggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Mobile Navigation Sidebar -->
+    <div class="mobile-nav-sidebar" id="mobileNavSidebar">
+        <div class="mobile-nav-header">
+            <div class="nav-brand">
+                <a href="index.html" class="nav-brand">
+    <h2 class="brand-title">SkillBridge</h2>
+</a>
+            </div>
+            <button class="mobile-menu-close" id="mobileMenuClose">×</button>
+        </div>
+        <select id="languageSelectMobile" class="language-select">
+            <option value="en">English</option>
+            <option value="hi">हिंदी</option>
+            
+        </select>
+        <nav class="nav-menu" id="navMenuMobile">
+            
+            <a href="about.html" class="nav-link">About</a>
+            <a href="internships.html" class="nav-link">Internships</a>
+            <a href="contact.html" class="nav-link">Contact</a>
+        </nav>
+        <div class="nav-actions" id="navActionsMobile">
+            <a href="profile.html" class="btn-outline" data-translate="signIn">Sign In</a>
+            <a href="profile.html" class="btn-primary" data-translate="signUp">Sign Up</a>
+        </div>
+    </div>
+
+    <!-- Profile Form -->
+    <main class="profile-main">
+        <div class="container">
+            <div class="profile-header">
+                <h1 class="profile-title" data-translate="profileTitle">Create Your Profile</h1>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <div class="step-indicator">
+                    <span class="step-text">Step <span id="currentStep">1</span> of 3</span>
+                </div>
+            </div>
+
+            <div class="profile-form-container">
+                <form id="profileForm" class="profile-form">
+                    <!-- Step 1: Personal Information -->
+                    <div class="form-step active" id="step1">
+                        <div class="step-header">
+                            <h2 class="step-title" data-translate="personalInfo">Personal Information</h2>
+                            <p class="step-subtitle">Tell us about yourself</p>
+                        </div>
+                        <div class="form-grid">
+                            <div class="form-group">
+                                <label for="firstName" class="form-label" data-translate="firstName">First Name</label>
+                                <input type="text" id="fullName" name="fullName" class="form-input" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="lastName" class="form-label" data-translate="lastName">Last Name</label>
+                                <input type="text" id="fullName" name="fullName" class="form-input" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email" class="form-label" data-translate="email">Email</label>
+                                <input type="email" id="email" name="email" class="form-input" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="phone" class="form-label">Phone Number</label>
+                                <input type="tel" id="phone" name="phone" class="form-input" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="age" class="form-label">Age</label>
+                                <input type="number" id="age" name="age" class="form-input" min="16" max="35" required>
+                            </div>
+                            <div class="form-group form-group-full">
+                                <label for="education" class="form-label">Education Level</label>
+                                <select id="education" name="education" class="form-select" required>
+                                    <option value="">Select your education level</option>
+                                    <option value="high-school">High School</option>
+                                    <option value="diploma">Diploma</option>
+                                    <option value="undergraduate">Undergraduate</option>
+                                    <option value="graduate">Graduate</option>
+                                    <option value="postgraduate">Postgraduate</option>
+                                    <option value="B.Pharm">B.Pharm</option>
+                                    <option value="B.Sc Agriculture">B.Sc Agriculture</option>
+                                    <option value="B.Sc Nursing">B.Sc Nursing</option>
+                                    <option value="B.Des">B.Des</option>
+                                    <option value="BBA">BBA</option>
+                                    <option value="Diploma Business Management">Diploma Business Management</option>
+                                    <option value="Diploma Jewellery">Diploma Jewellery Design</option>
+                                    <option value="Diploma in Medical Lab Technology">Diploma in Medical Lab Technology</option>
+                                    <option value="Diploma Logistics">Diploma Logistics</option>
+                                    <option value="Diploma in Agriculture">Diploma in Agriculture</option>
+                                    <option value="Diploma Civil">Diploma Civil</option>
+                                    <option value="MBA">MBA</option>
+                                    <option value="MBA Finance">MBA Finance</option>
+                                    <option value="MBA Marketing">MBA Marketing</option>
+                                    <option value="MBA Operations">MBA Operations</option>
+                                    <option value="MCA">MCA</option>
+                                    <option value="M.Des">M.Des</option>
+                                    <option value="MD">MD</option>
+                                    <option value="M.Pharma">M.Pharma</option>
+                                    <option value="M.Sc">M.Sc Chemistry</option>
+                                    <option value="M.Tech">M.Tech</option>
+                                    <option value="PhD">PhD</option>
+                                    <option value="Ph.D. Education">PhD Education</option>
+                                    <option value="Ph.D. Pharmacy">PhD Pharmacy</option>
+                                    <option value="Postgraduate Diploma">Postgraduate Diploma</option>
+                                    <option value="Undergraduate">Undergraduate</option>
+                                    <option value="B.Tech Chemical Engineering">B.Tech Chemical Engineering</option>
+                                    <option value="B.Tech Civil Engineering">B.Tech Civil Engineering</option>
+                                    <option value="B.Tech Electronics">B.Tech Electronics</option>
+                                    <option value="B.Tech Mechanical Engineering">B.Tech Mechanical Engineering</option>
+                                    <option value="B.Tech Computer Science">B.Tech Computer Science</option>
+                                    <option value="B.Tech Information Technology">B.Tech Information Technology</option>
+                                    <option value="B.Tech Aerospace">B.Tech Aerospace</option>
+
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Step 2: Skills & Interests -->
+                    <div class="form-step" id="step2">
+                        <div class="step-header">
+                            <h2 class="step-title" data-translate="skills">Skills & Interests</h2>
+                            <p class="step-subtitle">What are you passionate about?</p>
+                        </div>
+                        <div class="skills-section">
+                            <label class="form-label">Select your skills (choose multiple):</label>
+                            <div class="skills-grid" id="skillsGrid">
+                                <!-- Skills will be populated by JavaScript -->
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="experience" class="form-label">Previous Experience</label>
+                            <select id="experience" name="experience" class="form-select" required>
+                                <option value="">Select your experience level</option>
+                                <option value="none">No prior experience</option>
+                                <option value="some">Some project work</option>
+                                <option value="internship">Previous internship</option>
+                                <option value="freelance">Freelance work</option>
+                                <option value="part-time">Part-time job</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Step 3: Preferences -->
+                    <div class="form-step" id="step3">
+                        <div class="step-header">
+                            <h2 class="step-title" data-translate="preferences">Preferences</h2>
+                            <p class="step-subtitle">Help us find the perfect match</p>
+                        </div>
+                        <div class="form-grid">
+                            <div class="form-group">
+                                <label for="location" class="form-label">Preferred Location</label>
+                                <select id="location" name="location" class="form-select" required>
+                                    <option value="">Select your preferred location</option>
+                                    <option value="mumbai">Mumbai, Maharashtra</option>
+                                    <option value="delhi">Delhi, NCR</option>
+                                    <option value="bangalore">Bangalore, Karnataka</option>
+                                    <option value="hyderabad">Hyderabad, Telangana</option>
+                                    <option value="chennai">Chennai, Tamil Nadu</option>
+                                    <option value="pune">Pune, Maharashtra</option>
+                                    <option value="kolkata">Kolkata, West Bengal</option>
+                                    <option value="remote">Remote Work</option>
+                                    <option value="any">Any Location</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="workType" class="form-label">Work Type Preference</label>
+                                <select id="workType" name="workType" class="form-select" required>
+                                    <option value="">Select work type</option>
+                                    <option value="paid">Paid Internships Only</option>
+                                    <option value="unpaid">Unpaid Internships Only</option>
+                                    <option value="both">Both Paid & Unpaid</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="duration" class="form-label">Preferred Duration</label>
+                                <select id="duration" name="duration" class="form-select" required>
+                                    <option value="">Select duration</option>
+                                    <option value="1-2">1-2 months</option>
+                                    <option value="3-4">3-4 months</option>
+                                    <option value="5-6">5-6 months</option>
+                                    <option value="6+">6+ months</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="startDate" class="form-label">When can you start?</label>
+                                <select id="startDate" name="startDate" class="form-select" required>
+                                    <option value="">Select start time</option>
+                                    <option value="immediately">Immediately</option>
+                                    <option value="1-week">Within 1 week</option>
+                                    <option value="2-weeks">Within 2 weeks</option>
+                                    <option value="1-month">Within 1 month</option>
+                                    <option value="flexible">Flexible</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Navigation Buttons -->
+                    <div class="form-navigation">
+                        <button type="button" id="prevBtn" class="btn-outline" style="display: none;" data-translate="previous">Previous</button>
+                        <button type="button" id="nextBtn" class="btn-primary" data-translate="next">Next</button>
+                        <button type="submit" id="submitBtn" class="btn-primary" style="display: none;" data-translate="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 class="footer-title">SkillBridge</h3>
+                    <p class="footer-text">Bridging the gap between student aspirations and real opportunities.</p>
+                    <div class="social-links">
+                        <a href="#" class="social-link">&#xf08c;</a> <!-- LinkedIn icon -->
+                        <a href="#" class="social-link">&#xf099;</a> <!-- Twitter icon -->
+                        <a href="#" class="social-link">&#xf16d;</a> <!-- Instagram icon -->
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Quick Links</h4>
+                    <div class="footer-links">
+                        <a href="index.html" class="footer-link">Home</a>
+                        <a href="about.html" class="footer-link">About</a>
+                        <a href="internships.html" class="footer-link">Internships</a>
+                        <a href="contact.html" class="footer-link">Contact</a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Categories</h4>
+                    <div class="footer-links">
+                        <a href="#" class="footer-link">Web Development</a>
+                        <a href="#" class="footer-link">Data Entry</a>
+                        <a href="#" class="footer-link">Marketing</a>
+                        <a href="#" class="footer-link">Design</a>
+                        <a href="#" class="footer-link">Content Writing</a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Contact Info</h4>
+                    <div class="footer-links">
+                        <span class="footer-contact">hello@opportunityconnect.in</span>
+                        <span class="footer-contact">+91 12345 67890</span>
+                        <span class="footer-contact">Mumbai, India</span>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 SkillBridge. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="languages.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

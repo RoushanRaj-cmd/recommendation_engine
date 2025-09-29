@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkillBridge - Find Your Perfect Internship</title>
+    <meta name="description" content="Discover personalized internship opportunities across India. Connect with top companies and kickstart your career with SkillBridge." />
+    <meta name="author" content="SkillBridge" />
+    <meta name="keywords" content="internships, India, students, careers, opportunities, jobs, placement" />
+
+    <meta property="og:title" content="SkillBridge - Find Your Perfect Internship" />
+    <meta property="og:description" content="Discover personalized internship opportunities across India. Connect with top companies and kickstart your career." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/public/hero-image.jpg" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@lovable_dev" />
+    <meta name="twitter:image" content="/public/hero-image.jpg" />
+    <link rel="icon" href="/public/favicon.ico">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="nav-brand">
+                <a href="index.html" class="nav-brand">
+                    <h2 class="brand-title">SkillBridge</h2>
+                </a>
+            </div>
+            <nav class="nav-menu" id="navMenu">
+                <a href="about.html" class="nav-link" data-translate="about">About</a>
+                <a href="internships.html" class="nav-link" data-translate="internships">Internships</a>
+                <a href="contact.html" class="nav-link" data-translate="contact">Contact</a>
+            </nav>
+            <div class="nav-actions">
+                <select id="languageSelect" class="language-select">
+                    <option value="en">English</option>
+                    <option value="hi">हिंदी</option>
+                    
+                </select>
+                <a href="userlogin.html" class="btn-outline" id="signinLink" data-translate="signIn">Sign In</a>
+                <a href="profile.html" class="btn-primary" id="signupLink" data-translate="signUp">Sign Up</a>
+
+            </div>
+            <button class="mobile-menu-toggle" id="mobileMenuToggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Mobile Navigation Sidebar -->
+    <div class="mobile-nav-sidebar" id="mobileNavSidebar">
+        <div class="mobile-nav-header">
+            <div class="nav-brand">
+                <a href="index.html" class="nav-brand">
+    <h2 class="brand-title">SkillBridge</h2>
+</a>
+            </div>
+            <button class="mobile-menu-close" id="mobileMenuClose">×</button>
+        </div>
+        <select id="languageSelectMobile" class="language-select">
+            <option value="en">English</option>
+            <option value="hi">हिंदी</option>
+            
+        </select>
+        <nav class="nav-menu" id="navMenuMobile">
+            <a href="about.html" class="nav-link" data-translate="about">About</a>
+            <a href="internships.html" class="nav-link" data-translate="internships">Internships</a>
+            <a href="contact.html" class="nav-link" data-translate="contact">Contact</a>
+        </nav>
+        <div class="nav-actions" id="navActionsMobile">
+            <a href="profile.html" class="btn-outline" data-translate="signIn">Sign In</a>
+            <a href="profile.html" class="btn-primary" data-translate="signUp">Sign Up</a>
+        </div>
+    </div>
+
+    <main>
+        <section class="hero">
+            <div class="hero-bg">
+                <img src="/public/hero-image.jpg" alt="Hero background" class="hero-image">
+                <div class="hero-overlay"></div>
+            </div>
+            <div class="container hero-content">
+                <h1 class="hero-title" data-translate="heroTitle">Find Your Perfect Internship</h1>
+                <p class="hero-subtitle" data-translate="heroSubtitle">Connect with opportunities that match your skills and aspirations</p>
+                <div class="hero-buttons">
+                    <a href="profile.html" class="btn-hero" data-translate="getStarted">Get Started <span class="icon">→</span></a>
+                    <a href="about.html" class="btn-outline-large scroll-to-about" data-translate="learnMore">Learn More</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="stats-section">
+            <div class="container stats-grid">
+                <div class="stat-item">
+                    <div class="stat-icon">👥</div>
+                    <div class="stat-value">10,000+</div>
+                    <div class="stat-label">Students Connected</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-icon">🏢</div>
+                    <div class="stat-value">500+</div>
+                    <div class="stat-label">Companies</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-icon">🏆</div>
+                    <div class="stat-value">85%</div>
+                    <div class="stat-label">Success Rate</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="internships-section" id="featured-internships">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title" data-translate="featuredInternships">Featured Internships</h2>
+                    <p class="section-subtitle">Discover opportunities that match your skills and career goals</p>
+                </div>
+                <div class="internships-grid" id="featuredInternships">
+                    <!-- Internship cards will be populated by JavaScript (script.js) -->
+                </div>
+                <div class="section-footer">
+                    <a href="internships.html" class="btn-outline-large">View All Internships <span class="icon">→</span></a>
+                </div>
+            </div>
+        </section>
+
+        <section class="map-section">
+            <div class="container map-content">
+                <h2 class="section-title">Opportunities Across India</h2>
+                <div class="map-placeholder">
+                    <div class="map-icon">🗺️</div>
+                    <p class="map-text">From Mumbai to Chennai, Delhi to Bangalore - discover internships in every major city across India.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 class="footer-title">SkillBridge</h3>
+                    <p class="footer-text">Bridging the gap between student aspirations and real opportunities.</p>
+                    <div class="social-links">
+                        <a href="#" class="social-link">&#xf08c;</a> <!-- LinkedIn icon -->
+                        <a href="#" class="social-link">&#xf099;</a> <!-- Twitter icon -->
+                        <a href="#" class="social-link">&#xf16d;</a> <!-- Instagram icon -->
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Quick Links</h4>
+                    <div class="footer-links">
+                        <a href="index.html" class="footer-link">Home</a>
+                        <a href="about.html" class="footer-link">About</a>
+                        <a href="internships.html" class="footer-link">Internships</a>
+                        <a href="contact.html" class="footer-link">Contact</a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Categories</h4>
+                    <div class="footer-links">
+                        <a href="#" class="footer-link">Web Development</a>
+                        <a href="#" class="footer-link">Data Entry</a>
+                        <a href="#" class="footer-link">Marketing</a>
+                        <a href="#" class="footer-link">Design</a>
+                        <a href="#" class="footer-link">Content Writing</a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Contact Info</h4>
+                    <div class="footer-links">
+                        <span class="footer-contact">hello@opportunityconnect.in</span>
+                        <span class="footer-contact">+91 12345 67890</span>
+                        <span class="footer-contact">Mumbai, India</span>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 SkillBridge. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <script src="languages.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

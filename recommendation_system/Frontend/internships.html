@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Browse Internships - SkillBridge</title>
+    <meta name="description" content="Browse and search through hundreds of verified internship opportunities across India. Find the perfect match for your skills and career goals.">
+    <link rel="icon" href="/favicon.ico">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="nav-brand">
+                <a href="index.html" class="nav-brand">
+    <h2 class="brand-title">SkillBridge</h2>
+</a>
+            </div>
+            <nav class="nav-menu" id="navMenu">
+                
+                <a href="about.html" class="nav-link">About</a>
+                <a href="internships.html" class="nav-link active">Internships</a>
+                <a href="contact.html" class="nav-link">Contact</a>
+            </nav>
+            <div class="nav-actions">
+                <select id="languageSelect" class="language-select">
+                    <option value="en">English</option>
+                    <option value="hi">हिंदी</option>
+                    
+                </select>
+                <a href="userlogin.html" class="btn-outline" data-translate="signIn">Sign In</a>
+                <a href="profile.html" class="btn-primary" data-translate="signUp">Sign Up</a>
+            </div>
+            <button class="mobile-menu-toggle" id="mobileMenuToggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </header>
+
+    <!-- Mobile Navigation Sidebar -->
+    <div class="mobile-nav-sidebar" id="mobileNavSidebar">
+        <div class="mobile-nav-header">
+            <div class="nav-brand">
+                <a href="index.html" class="nav-brand">
+    <h2 class="brand-title">SkillBridge</h2>
+</a>
+            </div>
+            <button class="mobile-menu-close" id="mobileMenuClose">×</button>
+        </div>
+        <select id="languageSelectMobile" class="language-select">
+            <option value="en">English</option>
+            <option value="hi">हिंदी</option>
+            
+        </select>
+        <nav class="nav-menu" id="navMenuMobile">
+            
+            <a href="about.html" class="nav-link">About</a>
+            <a href="internships.html" class="nav-link active">Internships</a>
+            <a href="contact.html" class="nav-link">Contact</a>
+        </nav>
+        <div class="nav-actions" id="navActionsMobile">
+            <a href="userlogin.html" class="btn-outline" data-translate="signIn">Sign In</a>
+            <a href="userlogin.html" class="btn-primary" data-translate="signUp">Sign Up</a>
+        </div>
+    </div>
+
+    <!-- Internships Main -->
+    <main class="internships-main">
+        <div class="container">
+            <!-- Header -->
+            <section class="internships-header">
+                <h1 class="internships-title">Browse Internships</h1>
+                <p class="internships-subtitle">Discover opportunities across India that match your skills and interests</p>
+            </section>
+
+            <!-- Filters Section -->
+            <section class="filters-section">
+                <div class="filters-container">
+                    <!-- Search -->
+                    <div class="search-group">
+                        <input type="text" id="searchInput" class="search-input" placeholder="Search internships, companies, or skills...">
+                        <button class="search-button">🔍</button>
+                    </div>
+                    
+                    <!-- Filters -->
+                    <div class="filters-grid">
+                        <div class="filter-group">
+                            <label for="locationFilter" class="filter-label">Location</label>
+                            <select id="locationFilter" class="filter-select">
+                                <option value="">All Locations</option>
+                                <option value="mumbai">Mumbai</option>
+                                <option value="delhi">Delhi NCR</option>
+                                <option value="bangalore">Bangalore</option>
+                                <option value="hyderabad">Hyderabad</option>
+                                <option value="chennai">Chennai</option>
+                                <option value="pune">Pune</option>
+                                <option value="kolkata">Kolkata</option>
+                                <option value="remote">Remote</option>
+                                <option value="ahmedabad">Ahmedabad</option>
+                                <option value="jaipur">Jaipur</option>
+                                <option value="lucknow">Lucknow</option>
+                                <option value="chandigarh">Chandigarh</option>
+                                <option value="bhopal">Bhopal</option>
+                                <option value="indore">Indore</option>
+                                <option value="kochi">Kochi</option>
+                                <option value="coimbatore">Coimbatore</option>
+                                <option value="visakhapatnam">Visakhapatnam</option>
+                                <option value="surat">Surat</option>
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="sectorFilter" class="filter-label">Sector</label>
+                            <select id="sectorFilter" class="filter-select">
+                                <option value="">All Sectors</option>
+                                <option value="agriculture">Agriculture</option>
+                                <option value="chemical">Chemical</option>
+                                <option value="defence">Defence</option>
+                                <option value="design">Design</option>
+                                <option value="education">Education</option>
+                                <option value="fmcg">FMCG</option>
+                                <option value="finance-banking">Finance/Banking</option>
+                                <option value="gems">Gems</option>
+                                <option value="healthcare">Healthcare</option>
+                                <option value="housing-infrastructure">Housing/Infrastructure</option>
+                                <option value="it-software">IT/Software</option>
+                                <option value="industries">Industries</option>
+                                <option value="jewellery">Jewellery</option>
+                                <option value="logistics">Logistics</option>
+                                <option value="pharmaceutical">Pharmaceutical</option>
+                                <option value="research">Research</option>
+                                <option value="travel">Travel</option>
+
+                            </select>
+                        </div>
+                        <div class="filter-group">
+                            <label for="categoryFilter" class="filter-label">Category</label>
+                            <select id="categoryFilter" class="filter-select">
+                                <option value="">All Categories</option>
+                                <option value="web-development">Web Development</option>
+                                <option value="mobile-development">Android Development</option>
+                                <option value="data-science">Data Science</option>
+                                <option value="digital-marketing">Digital Marketing</option>
+                                <option value="content-writing">Content Writing</option>
+                                <option value="graphic-design">Graphic Design</option>
+                                <option value="data-entry">Data Entry</option>
+                                <option value="business-development">Business Development</option>
+                                <option value="hr">Human Resources</option>
+                                <option value="finance">Finance</option>
+                                <option value="full-stack ">Full Stack</option>
+                                <option value="hr">HR</option>
+                                <option value="devOps">DevOps</option>
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="typeFilter" class="filter-label">Type</label>
+                            <select id="typeFilter" class="filter-select">
+                                <option value="">All Types</option>
+                                <option value="paid">Paid Only</option>
+                                <option value="unpaid">Unpaid Only</option>
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="durationFilter" class="filter-label">Duration</label>
+                            <select id="durationFilter" class="filter-select">
+                                <option value="">Any Duration</option>
+                                <option value="1-2">1-2 months</option>
+                                <option value="3-4">3-4 months</option>
+                                <option value="5-6">5-6 months</option>
+                                <option value="6+">6+ months</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <div class="filters-actions">
+                        <button class="btn-outline clear-filters">Clear All</button>
+                        <button class="btn-primary apply-filters">Apply Filters</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Results Section -->
+            <section class="results-section">
+                <div class="results-header">
+                    <div class="results-count">
+                        <span id="resultsCount">Loading...</span>
+                    </div>
+                    <a href="profile.html" class="btn-outline-small" data-translate="createProfileForRecommendations">Create Profile for Recommendations</a>
+                    <div class="results-sort">
+                        <label for="sortSelect">Sort by:</label>
+                        <select id="sortSelect" class="sort-select">
+                            <option value="relevance">Relevance</option>
+                            <option value="date">Date Posted</option>
+                            <option value="company">Company Name</option>
+                            <option value="location">Location</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="internships-grid" id="internshipsGrid">
+                    <!-- Internship cards will be populated by JavaScript -->
+                </div>
+
+                <!-- Load More Button -->
+                <div class="load-more-section">
+                    <button class="btn-outline load-more-btn" id="loadMoreBtn">Load More Internships</button>
+                </div>
+            </section>
+
+            <!-- CTA Section -->
+            <section class="internships-cta">
+                <div class="cta-content">
+                    <h2 class="cta-title">Can't Find What You're Looking For?</h2>
+                    <p class="cta-text">Create your profile and get personalized recommendations based on your skills and preferences.</p>
+                    <div class="cta-buttons">
+                        <a href="profile.html" class="btn-primary">Create Profile</a>
+                        <a href="recommendations.html" class="btn-outline">View Recommendations</a>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 class="footer-title">SkillBridge</h3>
+                    <p class="footer-text">Bridging the gap between student aspirations and real opportunities.</p>
+                    <div class="social-links">
+                        <a href="#" class="social-link">&#xf08c;</a> <!-- LinkedIn icon -->
+                        <a href="#" class="social-link">&#xf099;</a> <!-- Twitter icon -->
+                        <a href="#" class="social-link">&#xf16d;</a> <!-- Instagram icon -->
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Quick Links</h4>
+                    <div class="footer-links">
+                        <a href="about.html" class="footer-link">About</a>
+                        <a href="internships.html" class="footer-link">Internships</a>
+                        <a href="contact.html" class="footer-link">Contact</a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Categories</h4>
+                    <div class="footer-links">
+                        <a href="#" class="footer-link">Web Development</a>
+                        <a href="#" class="footer-link">Data Entry</a>
+                        <a href="#" class="footer-link">Marketing</a>
+                        <a href="#" class="footer-link">Design</a>
+                        <a href="#" class="footer-link">Content Writing</a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4 class="footer-heading">Contact Info</h4>
+                    <div class="footer-links">
+                        <span class="footer-contact">roushanraj.ug.cse@bitsindri.ac.in</span>
+                        <span class="footer-contact">+91 8102445665</span>
+                        <span class="footer-contact">Rajendra Prasad Road, New Delhi </span>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 SkillBridge. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="languages.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
